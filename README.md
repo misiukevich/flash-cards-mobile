@@ -1,97 +1,213 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Flash Cards Mobile App
 
-# Getting Started
+A React Native mobile application for learning English and Polish vocabulary with Russian translations. The app features interactive flash cards with context examples and progress tracking.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## Features
 
-## Step 1: Start Metro
+- **Dual Language Support**: Switch between English and Polish vocabulary sets
+- **Interactive Flash Cards**: Tap to flip cards and reveal translations
+- **Context Examples**: View usage examples with Russian translations
+- **Progress Tracking**: Mark words as learned/unlearned and track your progress
+- **Search & Filter**: Find specific words and filter by learned status
+- **Offline Support**: All data is stored locally for offline use
+- **Beautiful UI**: Modern, intuitive interface with smooth animations
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## Screenshots
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+The app includes three main screens:
+1. **Home Screen**: Language selection and progress overview
+2. **Learning Screen**: Interactive flash card learning with navigation
+3. **Word List Screen**: Complete vocabulary list with search and filtering
 
-```sh
-# Using npm
-npm start
+## Installation & Setup
 
-# OR using Yarn
-yarn start
+### Prerequisites
+
+- Node.js (>= 18)
+- React Native CLI
+- Android Studio (for Android development)
+- Xcode (for iOS development, macOS only)
+
+### Installation Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd flash-cards-mobile
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Install iOS dependencies** (macOS only)
+   ```bash
+   cd ios && pod install && cd ..
+   ```
+
+## Running the App
+
+### Development Mode
+
+1. **Start Metro bundler**
+   ```bash
+   npm start
+   ```
+
+2. **Run on Android**
+   ```bash
+   npm run android
+   ```
+
+3. **Run on iOS** (macOS only)
+   ```bash
+   npm run ios
+   ```
+
+### Building for Production
+
+#### Android APK
+
+1. **Generate a signed APK**
+   ```bash
+   cd android
+   ./gradlew assembleRelease
+   ```
+
+2. **The APK will be located at:**
+   ```
+   android/app/build/outputs/apk/release/app-release.apk
+   ```
+
+#### Android App Bundle (AAB)
+
+1. **Generate an app bundle**
+   ```bash
+   cd android
+   ./gradlew bundleRelease
+   ```
+
+2. **The AAB will be located at:**
+   ```
+   android/app/build/outputs/bundle/release/app-release.aab
+   ```
+
+## Project Structure
+
+```
+src/
+├── components/          # Reusable UI components
+│   ├── FlashCard.tsx   # Individual flash card component
+│   ├── CardNavigator.tsx # Navigation between cards
+│   ├── WordList.tsx    # Vocabulary list component
+│   ├── LanguageSelector.tsx # Language selection
+│   └── Header.tsx      # Navigation header
+├── screens/            # Main app screens
+│   ├── HomeScreen.tsx  # Main entry point
+│   ├── LearningScreen.tsx # Flash card learning
+│   └── WordListScreen.tsx # Complete word list
+├── services/           # Business logic and data handling
+│   ├── csvParser.ts    # CSV parsing utilities
+│   ├── csvLoader.ts    # CSV data loading
+│   └── storage.ts      # Local storage management
+└── types/              # TypeScript type definitions
+    └── index.ts        # App-wide type definitions
 ```
 
-## Step 2: Build and run your app
+## Data Structure
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+The app uses CSV files for vocabulary data with the following structure:
 
-### Android
-
-```sh
-# Using npm
-npm run android
-
-# OR using Yarn
-yarn android
+```csv
+Item,Translation,Context,Context translation
+annual,годовой,annual payment for life,ежегодный пожизненный платеж
 ```
 
-### iOS
+- **Item**: The word in English or Polish
+- **Translation**: Russian translation
+- **Context**: Usage example (optional)
+- **Context translation**: Russian translation of the context (optional)
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+## Key Features Explained
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+### Flash Card Learning
+- Tap cards to flip between word and translation
+- View context examples when available
+- Mark words as learned/unlearned
+- Navigate between cards with progress tracking
 
-```sh
-bundle install
-```
+### Word Management
+- Search through all vocabulary
+- Filter by learned/unlearned status
+- View complete word list with translations
+- Quick access to mark words as learned
 
-Then, and every time you update your native dependencies, run:
+### Offline Functionality
+- All vocabulary data is parsed and stored locally
+- No internet connection required after initial setup
+- Progress and learned status persist between sessions
 
-```sh
-bundle exec pod install
-```
+## Customization
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+### Adding New Vocabulary
 
-```sh
-# Using npm
-npm run ios
+1. **Update CSV data** in `src/services/csvLoader.ts`
+2. **Add new words** following the existing format
+3. **Rebuild the app** to include new vocabulary
 
-# OR using Yarn
-yarn ios
-```
+### Styling
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+The app uses a consistent design system with:
+- Primary color: `#2196f3` (blue)
+- Success color: `#4CAF50` (green)
+- Warning color: `#FF5722` (red)
+- Background: `#f8f9fa` (light gray)
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+### Localization
 
-## Step 3: Modify your app
+The app supports multiple languages for the interface. To add new languages:
+1. Create translation files
+2. Update the language selection logic
+3. Add new vocabulary sets
 
-Now that you have successfully run the app, let's make changes!
+## Troubleshooting
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+### Common Issues
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+1. **Metro bundler issues**
+   ```bash
+   npm start -- --reset-cache
+   ```
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+2. **Android build issues**
+   ```bash
+   cd android && ./gradlew clean && cd ..
+   ```
 
-## Congratulations! :tada:
+3. **iOS build issues**
+   ```bash
+   cd ios && pod deintegrate && pod install && cd ..
+   ```
 
-You've successfully run and modified your React Native App. :partying_face:
+### Performance Tips
 
-### Now what?
+- The app is optimized for smooth animations and fast navigation
+- Large vocabulary sets are handled efficiently with lazy loading
+- Local storage operations are asynchronous to prevent UI blocking
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
+## Contributing
 
-# Troubleshooting
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
 
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+## License
 
-# Learn More
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-To learn more about React Native, take a look at the following resources:
+## Support
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+For support and questions, please open an issue in the repository or contact the development team.
