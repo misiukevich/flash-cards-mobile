@@ -12,7 +12,7 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { HomeScreen } from './src/screens/HomeScreen';
 import { LearningScreen } from './src/screens/LearningScreen';
 import { WordListScreen } from './src/screens/WordListScreen';
-import { loadCSVData } from './src/services/csvLoader';
+import { loadData } from './src/services/csvLoader';
 import {
   saveCards,
   loadCards,
@@ -37,34 +37,46 @@ function App() {
   const initializeApp = async () => {
     try {
       setIsLoading(true);
-      
+      console.log('🚀 App: Initializing application...');
+
       // Try to load existing data from storage
+      console.log('🔍 App: Checking for saved data in storage...');
       const savedCards = await loadCards();
       const savedLanguage = await loadCurrentLanguage();
-      
+
       if (savedCards) {
+        console.log('📦 App: Found saved data in storage');
+        console.log(`📚 App: Loading ${savedCards.english.length} English and ${savedCards.polish.length} Polish words from storage`);
         setCards(savedCards);
         setCurrentLanguage(savedLanguage);
       } else {
+        console.log('📂 App: No saved data found, loading from CSV files...');
         // Parse CSV files and create initial data
-        await loadCSVDataFromFiles();
+        await loadDataFromFiles();
       }
     } catch (error) {
-      console.error('Error initializing app:', error);
+      console.error('❌ App: Error initializing app:', error);
       Alert.alert('Error', 'Failed to load vocabulary data');
     } finally {
       setIsLoading(false);
+      console.log('✅ App: Initialization completed');
     }
   };
 
-  const loadCSVDataFromFiles = async () => {
+  const loadDataFromFiles = async () => {
     try {
-      const initialCards = await loadCSVData();
+      console.log('🚀 App: Starting CSV data loading from files...');
+      const initialCards = await loadData();
+
+      console.log('💾 App: Saving loaded data to storage...');
       setCards(initialCards);
       await saveCards(initialCards);
       await saveCurrentLanguage('english');
+
+      console.log('🎉 App: CSV data loading and storage completed successfully!');
+      console.log(`📚 App: Ready with ${initialCards.english.length} English and ${initialCards.polish.length} Polish words`);
     } catch (error) {
-      console.error('Error loading CSV data:', error);
+      console.error('❌ App: Error loading CSV data:', error);
       Alert.alert('Error', 'Failed to load vocabulary files');
     }
   };
@@ -99,12 +111,12 @@ function App() {
     const updatedCards = cards[currentLanguage].map(card =>
       card.id === cardId ? { ...card, isLearned } : card
     );
-    
+
     const newCards = {
       ...cards,
       [currentLanguage]: updatedCards,
     };
-    
+
     setCards(newCards);
     await saveCards(newCards);
   };
@@ -140,7 +152,7 @@ function App() {
             onViewAllWords={handleViewAllWords}
           />
         )}
-        
+
         {currentScreen === 'learning' && (
           <LearningScreen
             cards={cards[currentLanguage]}
@@ -149,7 +161,7 @@ function App() {
             onCardUpdate={handleCardUpdate}
           />
         )}
-        
+
         {currentScreen === 'wordList' && (
           <WordListScreen
             cards={cards[currentLanguage]}

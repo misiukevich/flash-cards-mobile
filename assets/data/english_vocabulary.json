@@ -1,0 +1,6071 @@
+[
+  {
+    "id": "english_1",
+    "item": "annual",
+    "translation": "годовой",
+    "context": "annual payment for life",
+    "contextTranslation": "ежегодный пожизненный платеж",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_2",
+    "item": "on condition",
+    "translation": "при условии",
+    "context": "on condition that he receive smth",
+    "contextTranslation": "при условии, что он получит что-то",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_3",
+    "item": "to stick",
+    "translation": "придерживаться",
+    "context": "to stick to commitments",
+    "contextTranslation": "придерживаться обязательств",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_4",
+    "item": "retirement",
+    "translation": "уход на пенсию / уход в отставку",
+    "context": "he spent much of his retirement traveling in Europe",
+    "contextTranslation": "он провел большую часть своей пенсии, путешествуя по Европе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_5",
+    "item": "to resist",
+    "translation": "сопротивляться",
+    "context": "antibodies help us to resist infection",
+    "contextTranslation": "антитела помогают нам противостоять инфекции",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_6",
+    "item": "to lack",
+    "translation": "не хватать / испытывать недостаток",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_7",
+    "item": "lack",
+    "translation": "недостаток",
+    "context": "his lack of manners is unbelievable",
+    "contextTranslation": "его отсутствие манер невероятно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_8",
+    "item": "capable",
+    "translation": "способный",
+    "context": "I'm quite capable of taking care of myself",
+    "contextTranslation": "Я вполне способен позаботиться о себе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_9",
+    "item": "frighten",
+    "translation": "пугать",
+    "context": "if you say anything to him you might frighten him",
+    "contextTranslation": "если ты ему что-нибудь скажешь, можешь напугать его",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_10",
+    "item": "in spite of",
+    "translation": "несмотря на",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_11",
+    "item": "failure",
+    "translation": "неудача",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_12",
+    "item": "determined",
+    "translation": "определенный / решительный",
+    "context": "determined to succeed",
+    "contextTranslation": "полон решимости добиться успеха",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_13",
+    "item": "evident",
+    "translation": "очевидный",
+    "context": "she ate the cookies with evident enjoyment",
+    "contextTranslation": "она съела печенье с явным удовольствием",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_14",
+    "item": "courage",
+    "translation": "смелость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_15",
+    "item": "amusing",
+    "translation": "забавный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_16",
+    "item": "towards",
+    "translation": "в направлении",
+    "context": "the first step towards peace",
+    "contextTranslation": "первый шаг к миру",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_17",
+    "item": "proven",
+    "translation": "доказано / доказанный",
+    "context": "a proven risk to health",
+    "contextTranslation": "доказанный риск для здоровья",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_18",
+    "item": "brainwash",
+    "translation": "промывание мозгов",
+    "context": "the organization could brainwash young people",
+    "contextTranslation": "организация могла промыть мозги молодым людям",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_19",
+    "item": "signpost",
+    "translation": "указатель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_20",
+    "item": "recover",
+    "translation": "восстанавливать",
+    "context": "the economy has begun to recover",
+    "contextTranslation": "экономика начала восстанавливаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_21",
+    "item": "janitor",
+    "translation": "дворник",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_22",
+    "item": "increase",
+    "translation": "увеличивать",
+    "context": "he was waiting for the next pay increase",
+    "contextTranslation": "он ждал следующего повышения зарплаты",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_23",
+    "item": "figure out",
+    "translation": "выяснить / понять / придумать",
+    "context": "Then you better figure out how to catch him",
+    "contextTranslation": "Тогда тебе лучше придумать / выяснить, как его поймать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_24",
+    "item": "cause",
+    "translation": "причина",
+    "context": "I have a cause, several actually.",
+    "contextTranslation": "У меня есть причина, на самом деле несколько.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_25",
+    "item": "confidence",
+    "translation": "уверенность / доверие",
+    "context": "They have our confidence and support.",
+    "contextTranslation": "Они могут рассчитывать на наше доверие и поддержку.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_26",
+    "item": "engagement",
+    "translation": "помолвка",
+    "context": "We agreed our engagement was strictly business.",
+    "contextTranslation": "Мы решили, что наша помолвка всего лишь формальность.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_27",
+    "item": "fertility",
+    "translation": "плодородие / плодовитость",
+    "context": "improve the soil fertility by adding compost",
+    "contextTranslation": "улучшить плодородие почвы, добавив компост",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_28",
+    "item": "pagan",
+    "translation": "язычник",
+    "context": "My husband is just like that pagan emperor.",
+    "contextTranslation": "Мой муж точно такой же, как тот языческий император.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_29",
+    "item": "burial",
+    "translation": "захоронение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_30",
+    "item": "coincidence",
+    "translation": "совпадение",
+    "context": "It was no coincidence that we met.",
+    "contextTranslation": "То, что мы встретились - это не совпадение.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_31",
+    "item": "sacrifice",
+    "translation": "жертва / жертвоприношение",
+    "context": "This requires the sacrifice of time and energy.",
+    "contextTranslation": "Это требует жертв - в плане времени и энергии.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_32",
+    "item": "conspiracy",
+    "translation": "заговор",
+    "context": "When something happens, she sees it as a conspiracy.",
+    "contextTranslation": "Когда что-то случается, она воспринимает это как заговор.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_33",
+    "item": "essential",
+    "translation": "существенный / необходимый",
+    "context": "But we believe that more than legitimacy is essential to success.",
+    "contextTranslation": "Но мы считаем, что для успеха необходимо нечто большее, чем легитимность.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_34",
+    "item": "essentials",
+    "translation": "предметы первой необходимости",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_35",
+    "item": "remain",
+    "translation": "оставаться",
+    "context": "it'll still remain a part of our culture",
+    "contextTranslation": "это по-прежнему останется частью нашей культуры",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_36",
+    "item": "encourage",
+    "translation": "поощрять",
+    "context": "they encourage us to keep working",
+    "contextTranslation": "они побуждают нас продолжать работать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_37",
+    "item": "loan",
+    "translation": "кредит / заём / ссуда",
+    "context": "borrowers can take out a loan for $84,000",
+    "contextTranslation": "заемщики могут взять ссуду на $ 84 000",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_38",
+    "item": "goat",
+    "translation": "козел / коза",
+    "context": "You'd do better if you buy a goat.",
+    "contextTranslation": "Вы бы поступили умнее, купив козу.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_39",
+    "item": "intend",
+    "translation": "собираться / намереваться",
+    "context": "What do you intend doing about it?",
+    "contextTranslation": "Что вы собираетесь с этим делать?",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_40",
+    "item": "obtain",
+    "translation": "получать",
+    "context": "I had to obtain permission from her father",
+    "contextTranslation": "Мне пришлось получить разрешение от ее отца",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_41",
+    "item": "actually",
+    "translation": "фактически / на самом деле",
+    "context": "he actually expected me to be pleased about it!",
+    "contextTranslation": "он на самом деле ожидал, что я буду доволен этим!",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_42",
+    "item": "possess",
+    "translation": "обладать / владеть",
+    "context": "he did not possess a sense of humor",
+    "contextTranslation": "он не обладал чувством юмора",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_43",
+    "item": "gain",
+    "translation": "получить / добиться / выгода / усиление",
+    "context": "Whenever another creature comes into play, you gain 1 life.",
+    "contextTranslation": "Каждый раз, когда в игру входит другое существо, вы получаете 1 жизнь.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_44",
+    "item": "prediction",
+    "translation": "прогнозирование / предсказание",
+    "context": "the prediction of future behavior",
+    "contextTranslation": "предсказание будущего поведения",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_45",
+    "item": "gap",
+    "translation": "зазор",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_46",
+    "item": "sustainable",
+    "translation": "стабильный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_47",
+    "item": "aspiration",
+    "translation": "стремление",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_48",
+    "item": "pros and cons",
+    "translation": "плюсы и минусы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_49",
+    "item": "meassure",
+    "translation": "мера",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_50",
+    "item": "high-end",
+    "translation": "лидирующий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_51",
+    "item": "struggle",
+    "translation": "борьба",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_52",
+    "item": "praise",
+    "translation": "хвалить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_53",
+    "item": "impact",
+    "translation": "влияние",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_54",
+    "item": "wealth",
+    "translation": "богатство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_55",
+    "item": "affairs",
+    "translation": "дела",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_56",
+    "item": "suppliers",
+    "translation": "поставщики",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_57",
+    "item": "suspiciously",
+    "translation": "подозрительно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_58",
+    "item": "half as much",
+    "translation": "вдвое меньше",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_59",
+    "item": "twice as much / double price",
+    "translation": "вдвое больше",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_60",
+    "item": "evidence",
+    "translation": "свидетельство / доказательство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_61",
+    "item": "suspect",
+    "translation": "подозревать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_62",
+    "item": "victim",
+    "translation": "жертва",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_63",
+    "item": "witness",
+    "translation": "свидетель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_64",
+    "item": "patient",
+    "translation": "терпеливый / пациент",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_65",
+    "item": "hitchhike",
+    "translation": "автостоп",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_66",
+    "item": "prodigy",
+    "translation": "вундеркинд",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_67",
+    "item": "enhances",
+    "translation": "усиливать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_68",
+    "item": "embarrassed",
+    "translation": "смущенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_69",
+    "item": "confused",
+    "translation": "спутанный / смущенный",
+    "context": "He was totally confused by the new company policy",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_70",
+    "item": "frustrated",
+    "translation": "растроенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_71",
+    "item": "try on",
+    "translation": "примерять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_72",
+    "item": "dress up",
+    "translation": "наряжаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_73",
+    "item": "outfit",
+    "translation": "наряд",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_74",
+    "item": "put off",
+    "translation": "откладывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_75",
+    "item": "take off",
+    "translation": "снять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_76",
+    "item": "kick out",
+    "translation": "выгонять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_77",
+    "item": "settle down",
+    "translation": "успокоиться / остепениться / поселиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_78",
+    "item": "mind your own business",
+    "translation": "не лезь не в свое дело / занимайся своим делом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_79",
+    "item": "keep myself to myself",
+    "translation": "быть наедине с собой",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_80",
+    "item": "otherwise",
+    "translation": "иначе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_81",
+    "item": "Make yourself at home!",
+    "translation": "чувствуй себя как дома",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_82",
+    "item": "mess",
+    "translation": "беспорядок",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_83",
+    "item": "to mess",
+    "translation": "возиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_84",
+    "item": "reserved",
+    "translation": "сдержанный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_85",
+    "item": "find out",
+    "translation": "выяснить / понять / придумать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_86",
+    "item": "applicable",
+    "translation": "применимый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_87",
+    "item": "diverse",
+    "translation": "разнообразный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_88",
+    "item": "to leverage",
+    "translation": "использовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_89",
+    "item": "leverage",
+    "translation": "система рычагов",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_90",
+    "item": "nightmare",
+    "translation": "страшный сон",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_91",
+    "item": "catfish",
+    "translation": "сом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_92",
+    "item": "alike",
+    "translation": "точно так же / одинаково",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_93",
+    "item": "cosy",
+    "translation": "уютный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_94",
+    "item": "cosiness",
+    "translation": "уют",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_95",
+    "item": "awareness",
+    "translation": "осведомленность / осознание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_96",
+    "item": "to be aware of",
+    "translation": "быть в курсе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_97",
+    "item": "comforting",
+    "translation": "утешительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_98",
+    "item": "to tend to",
+    "translation": "склоняться к",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_99",
+    "item": "to associate",
+    "translation": "ассоциировать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_100",
+    "item": "to be prone to",
+    "translation": "быть склонным к",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_101",
+    "item": "to have a tendency to",
+    "translation": "иметь склонность к",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_102",
+    "item": "intention",
+    "translation": "намерение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_103",
+    "item": "terminate",
+    "translation": "прекращать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_104",
+    "item": "approach",
+    "translation": "подход",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_105",
+    "item": "tier",
+    "translation": "ярус",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_106",
+    "item": "leave it as is",
+    "translation": "оставить как есть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_107",
+    "item": "diversity",
+    "translation": "разнообразие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_108",
+    "item": "regardless",
+    "translation": "не смотря на",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_109",
+    "item": "resilient",
+    "translation": "устойчивый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_110",
+    "item": "dedicate",
+    "translation": "посвящать / выделять",
+    "context": "dedicate yourselves to studies",
+    "contextTranslation": "посвящать себя учебе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_111",
+    "item": "dedicated",
+    "translation": "специальный / выделенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_112",
+    "item": "nonetheless",
+    "translation": "тем не менее",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_113",
+    "item": "desire",
+    "translation": "желание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_114",
+    "item": "desirable",
+    "translation": "желанный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_115",
+    "item": "destination",
+    "translation": "пункт назначения / направление",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_116",
+    "item": "foodie",
+    "translation": "гурман",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_117",
+    "item": "noodles",
+    "translation": "лапша",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_118",
+    "item": "handy",
+    "translation": "удобный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_119",
+    "item": "compatible",
+    "translation": "совместимый / сочетаемый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_120",
+    "item": "provision",
+    "translation": "обеспечение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_121",
+    "item": "durability",
+    "translation": "долговечность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_122",
+    "item": "latency",
+    "translation": "задержка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_123",
+    "item": "scenery",
+    "translation": "пейзаж / декорации",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_124",
+    "item": "landscape",
+    "translation": "пейзаж / ландшафт",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_125",
+    "item": "entertainment",
+    "translation": "развлечения",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_126",
+    "item": "criminal",
+    "translation": "уголовный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_127",
+    "item": "urban",
+    "translation": "городской",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_128",
+    "item": "rural",
+    "translation": "деревенский",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_129",
+    "item": "standard of living",
+    "translation": "уровень жизни",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_130",
+    "item": "traffic jams",
+    "translation": "пробки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_131",
+    "item": "job opportunity",
+    "translation": "вакансия",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_132",
+    "item": "cost of living",
+    "translation": "стоимость жизни",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_133",
+    "item": "can't stand it",
+    "translation": "терпеть не могу",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_134",
+    "item": "curious",
+    "translation": "любопытный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_135",
+    "item": "ensure",
+    "translation": "гарантировать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_136",
+    "item": "insurance",
+    "translation": "страхование",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_137",
+    "item": "insure",
+    "translation": "страховать / гарантировать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_138",
+    "item": "barn",
+    "translation": "сарай",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_139",
+    "item": "distribute",
+    "translation": "распределять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_140",
+    "item": "seamlessly / smoothly",
+    "translation": "плавно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_141",
+    "item": "enforce",
+    "translation": "обеспечивать соблюдение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_142",
+    "item": "bear with me",
+    "translation": "потерпите меня",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_143",
+    "item": "evenly",
+    "translation": "равномерно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_144",
+    "item": "commitment",
+    "translation": "обязательство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_145",
+    "item": "mature",
+    "translation": "созреть / зрелый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_146",
+    "item": "concentrate",
+    "translation": "сконцентрироваться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_147",
+    "item": "controversy",
+    "translation": "спор",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_148",
+    "item": "controversial",
+    "translation": "спорный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_149",
+    "item": "argument",
+    "translation": "спор",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_150",
+    "item": "supportive",
+    "translation": "поддерживающий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_151",
+    "item": "significant",
+    "translation": "значительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_152",
+    "item": "adopt",
+    "translation": "усыновить / принимать / перенимать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_153",
+    "item": "retain",
+    "translation": "удерживать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_154",
+    "item": "eventually",
+    "translation": "в итоге / в конечном счете",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_155",
+    "item": "consistent",
+    "translation": "последовательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_156",
+    "item": "failover",
+    "translation": "отказоустойчивость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_157",
+    "item": "standby",
+    "translation": "резервный / запасной",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_158",
+    "item": "proprietary",
+    "translation": "собственность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_159",
+    "item": "instantaneous",
+    "translation": "мгновенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_160",
+    "item": "instant",
+    "translation": "мгновение / мгновенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_161",
+    "item": "load off",
+    "translation": "снизить нагрузку / разгрузить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_162",
+    "item": "reduce",
+    "translation": "уменьшать / снижать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_163",
+    "item": "eviction",
+    "translation": "выселение / изгнание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_164",
+    "item": "wisdom",
+    "translation": "мудрость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_165",
+    "item": "nomads",
+    "translation": "кочевники",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_166",
+    "item": "backpacker",
+    "translation": "пеший турист",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_167",
+    "item": "to backpack",
+    "translation": "ходить в поход",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_168",
+    "item": "adventurer",
+    "translation": "авантюрист / искатель приключений",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_169",
+    "item": "to afford",
+    "translation": "предоставлять / иметь возможность / быть в состоянии сделать что-либо",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_170",
+    "item": "local cuisine/people",
+    "translation": "местная кухня/люди",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_171",
+    "item": "exciting",
+    "translation": "захватывающий / волнующий / возбуждающий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_172",
+    "item": "to put away some money",
+    "translation": "отложить немного денег",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_173",
+    "item": "to go on a road trip",
+    "translation": "отправиться в путешествие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_174",
+    "item": "two night camping trip",
+    "translation": "двухдневный поход",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_175",
+    "item": "camping tent",
+    "translation": "палатка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_176",
+    "item": "tent",
+    "translation": "палатка / навес",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_177",
+    "item": "RV (Recreational vehicle)",
+    "translation": "фургон",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_178",
+    "item": "edge",
+    "translation": "край",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_179",
+    "item": "on the edge",
+    "translation": "на краю",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_180",
+    "item": "bicycle lane",
+    "translation": "велосипедная дорожка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_181",
+    "item": "backbone",
+    "translation": "хребет / позвоночник / основа",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_182",
+    "item": "alias",
+    "translation": "псевдоним",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_183",
+    "item": "free of charge",
+    "translation": "бесплатно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_184",
+    "item": "respond",
+    "translation": "реагировать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_185",
+    "item": "specify",
+    "translation": "указывать / уточнять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_186",
+    "item": "shrink",
+    "translation": "сокращаться / сжиматься",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_187",
+    "item": "distinction",
+    "translation": "различие / отличие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_188",
+    "item": "explicitly",
+    "translation": "явно / недвусмысленно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_189",
+    "item": "to influence",
+    "translation": "влиять / оказывать влияние",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_190",
+    "item": "to brand",
+    "translation": "брендировать / клеймить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_191",
+    "item": "to post",
+    "translation": "опубликовать / отправлять по почте",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_192",
+    "item": "sketch",
+    "translation": "эскиз / набросок",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_193",
+    "item": "supply",
+    "translation": "поставлять / снабжать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_194",
+    "item": "more or less",
+    "translation": "более менее",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_195",
+    "item": "recently / lately",
+    "translation": "недавно / в последнее время",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_196",
+    "item": "insult",
+    "translation": "оскорблять / обижать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_197",
+    "item": "to run an errand",
+    "translation": "выполнить поручение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_198",
+    "item": "tie",
+    "translation": "галстук",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_199",
+    "item": "to tie",
+    "translation": "связать / завязать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_200",
+    "item": "reliable",
+    "translation": "надежный / достоверный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_201",
+    "item": "take over",
+    "translation": "перенимать / вступать во владение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_202",
+    "item": "to tag",
+    "translation": "помечать / прикреплять ярлык",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_203",
+    "item": "privacy",
+    "translation": "конфиденциальность / уединенность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_204",
+    "item": "to browse",
+    "translation": "просматривать / пролистывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_205",
+    "item": "abundant",
+    "translation": "обильный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_206",
+    "item": "flexible",
+    "translation": "гибкий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_207",
+    "item": "flex",
+    "translation": "сгибать / гнуть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_208",
+    "item": "hood",
+    "translation": "капот / капюшон",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_209",
+    "item": "enhancement",
+    "translation": "улучшение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_210",
+    "item": "properly",
+    "translation": "правильно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_211",
+    "item": "deserve",
+    "translation": "заслуживать / быть достойным",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_212",
+    "item": "suspend",
+    "translation": "приостановить / приостанавливать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_213",
+    "item": "origin",
+    "translation": "происхождение / источник",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_214",
+    "item": "consistency",
+    "translation": "последовательность / согласованность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_215",
+    "item": "a glance",
+    "translation": "(быстрый) взгляд / беглый взгляд",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_216",
+    "item": "to glance",
+    "translation": "взглянуть / взглянуть мельком",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_217",
+    "item": "demeanour",
+    "translation": "поведение / манера вести себя",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_218",
+    "item": "manners / mannerisms",
+    "translation": "манеры",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_219",
+    "item": "spend time on",
+    "translation": "тратить время на",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_220",
+    "item": "come up to",
+    "translation": "подойти к / зайти к",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_221",
+    "item": "go out with",
+    "translation": "пойти с / встречаться с",
+    "context": "I can't go out with you tonight.",
+    "contextTranslation": "Я не смогу пойти с тобой сегодня на свидание.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_222",
+    "item": "appropriate",
+    "translation": "соответствующий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_223",
+    "item": "charitable",
+    "translation": "благотворительный",
+    "context": "charitable foundation",
+    "contextTranslation": "благотворительный фонд",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_224",
+    "item": "courteous",
+    "translation": "вежливый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_225",
+    "item": "competent",
+    "translation": "компетентный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_226",
+    "item": "run after",
+    "translation": "бежать за",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_227",
+    "item": "sort of / kind of",
+    "translation": "вроде, как бы, что-то вроде",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_228",
+    "item": "prerequisite",
+    "translation": "предварительное условие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_229",
+    "item": "deny",
+    "translation": "отказываться от / отрицать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_230",
+    "item": "compliance",
+    "translation": "согласие / податливость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_231",
+    "item": "concurrent",
+    "translation": "одновременный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_232",
+    "item": "rapid",
+    "translation": "стремительный / быстрый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_233",
+    "item": "glacier",
+    "translation": "ледник",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_234",
+    "item": "retrieve",
+    "translation": "извлекать / восстанавливать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_235",
+    "item": "sample",
+    "translation": "образец",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_236",
+    "item": "mosque",
+    "translation": "мечеть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_237",
+    "item": "a departure lounge",
+    "translation": "зал вылета",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_238",
+    "item": "pleasant",
+    "translation": "приятный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_239",
+    "item": "excellent",
+    "translation": "превосходно / превосходный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_240",
+    "item": "stale",
+    "translation": "несвежий / черствый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_241",
+    "item": "attend",
+    "translation": "посещать / присутствовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_242",
+    "item": "maintain",
+    "translation": "поддерживать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_243",
+    "item": "transperancy",
+    "translation": "прозрачность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_244",
+    "item": "compatibility",
+    "translation": "совместимость / сочетаемость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_245",
+    "item": "crucial",
+    "translation": "ключевой / решающий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_246",
+    "item": "constraint",
+    "translation": "ограничение / принуждение / скованность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_247",
+    "item": "wellness",
+    "translation": "здоровье / благополучие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_248",
+    "item": "a balanced diet",
+    "translation": "сбалансированная диета",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_249",
+    "item": "cut down on",
+    "translation": "сократить",
+    "context": "to cut down on costs",
+    "contextTranslation": "сократить расходы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_250",
+    "item": "a sport-related activity",
+    "translation": "деятельность, связанная со спортом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_251",
+    "item": "seduction",
+    "translation": "соблазнение / соблазн / совращение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_252",
+    "item": "dissolve",
+    "translation": "растворяться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_253",
+    "item": "to bail out",
+    "translation": "выручать / выручать из беды",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_254",
+    "item": "to sort out",
+    "translation": "разобраться / перебирать / рассортировать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_255",
+    "item": "remarkable",
+    "translation": "замечательный / выдающийся",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_256",
+    "item": "astonishing",
+    "translation": "удивительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_257",
+    "item": "amazing",
+    "translation": "изумительный / поразительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_258",
+    "item": "mediocre",
+    "translation": "посредственный / заурядный / бесталанный (без таланта)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_259",
+    "item": "to make a breakthrough",
+    "translation": "совершить прорыв",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_260",
+    "item": "to face challenges",
+    "translation": "столкнуться с проблемами",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_261",
+    "item": "indeed",
+    "translation": "верно / в самом деле / действительно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_262",
+    "item": "familiar",
+    "translation": "привычный / близкий / хорошо знакомый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_263",
+    "item": "tough",
+    "translation": "жесткий / трудный / сложный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_264",
+    "item": "outlining",
+    "translation": "обрисовывая в общих чертах",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_265",
+    "item": "substitute",
+    "translation": "заменять / подменивать / заменитель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_266",
+    "item": "occur",
+    "translation": "происходить / иметь место / встречаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_267",
+    "item": "to beat",
+    "translation": "бить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_268",
+    "item": "to beat addictions",
+    "translation": "победить зависимость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_269",
+    "item": "be willing to do",
+    "translation": "быть готовым сделать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_270",
+    "item": "constantly",
+    "translation": "постоянно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_271",
+    "item": "clutter",
+    "translation": "беспорядок / суматоха",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_272",
+    "item": "at once",
+    "translation": "однажды / сразу / разом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_273",
+    "item": "to curb",
+    "translation": "сдерживать / обуздать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_274",
+    "item": "a relapse",
+    "translation": "рецедив / возврат болезни",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_275",
+    "item": "a halt",
+    "translation": "остановка / привал",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_276",
+    "item": "assume",
+    "translation": "предполагать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_277",
+    "item": "up to you",
+    "translation": "вам решать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_278",
+    "item": "evolve",
+    "translation": "эволюционировать / развиваться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_279",
+    "item": "abuse",
+    "translation": "злоупотреблять / плохо обращаться / оскорблять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_280",
+    "item": "engage",
+    "translation": "привлекать / заниматься",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_281",
+    "item": "engage with",
+    "translation": "взаимодействовать с",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_282",
+    "item": "liniant",
+    "translation": "снисходительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_283",
+    "item": "intercom",
+    "translation": "домофон / переговорное устройство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_284",
+    "item": "intercept",
+    "translation": "перехватывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_285",
+    "item": "interception",
+    "translation": "перехват",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_286",
+    "item": "infer",
+    "translation": "делать вывод / делать заключение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_287",
+    "item": "stigma",
+    "translation": "клеймо",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_288",
+    "item": "insomnia",
+    "translation": "бессонница",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_289",
+    "item": "check-up",
+    "translation": "проверка / осмотр / обследование / медосмотр",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_290",
+    "item": "misconception",
+    "translation": "заблуждение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_291",
+    "item": "to deal with",
+    "translation": "иметь дело с",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_292",
+    "item": "to check in",
+    "translation": "зарегистрироваться / сдавать под расписку",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_293",
+    "item": "check out",
+    "translation": "проверить / выехать из гостиницы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_294",
+    "item": "to seek",
+    "translation": "искать / стремиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_295",
+    "item": "irritable",
+    "translation": "раздражительный / болезненно чувствительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_296",
+    "item": "irritated with",
+    "translation": "раздраженный чем-либо",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_297",
+    "item": "annoying",
+    "translation": "раздражающий / досадный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_298",
+    "item": "pale",
+    "translation": "бледный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_299",
+    "item": "mental disorder",
+    "translation": "расстройство психики",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_300",
+    "item": "stress tolerance",
+    "translation": "стрессоустойчивость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_301",
+    "item": "spike",
+    "translation": "шип / костыль / шпилька",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_302",
+    "item": "decouple",
+    "translation": "отделить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_303",
+    "item": "couple",
+    "translation": "пара",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_304",
+    "item": "persist",
+    "translation": "сопротивляться / сохраняться / упорствовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_305",
+    "item": "retention",
+    "translation": "удержание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_306",
+    "item": "poll",
+    "translation": "опрос",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_307",
+    "item": "threshold",
+    "translation": "порог / предел",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_308",
+    "item": "exceed",
+    "translation": "превосходить / превышать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_309",
+    "item": "throughput",
+    "translation": "пропускная способность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_310",
+    "item": "batch",
+    "translation": "партия / группировать программы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_311",
+    "item": "consumer",
+    "translation": "потребитель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_312",
+    "item": "to refuse",
+    "translation": "отказать / отказываться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_313",
+    "item": "fan",
+    "translation": "поклонник / болельщик / вентилятор / веер",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_314",
+    "item": "hose",
+    "translation": "шланг",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_315",
+    "item": "firehose",
+    "translation": "пожарный шланг",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_316",
+    "item": "revise",
+    "translation": "исправлять / пересматривать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_317",
+    "item": "embarrassment",
+    "translation": "смущение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_318",
+    "item": "a gesture",
+    "translation": "жест / мимика / телодвижение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_319",
+    "item": "to reveal",
+    "translation": "раскрыть / вскрывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_320",
+    "item": "to blink",
+    "translation": "мигать / моргать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_321",
+    "item": "deceive",
+    "translation": "обманывать / вводить в заблуждение / нарушать верность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_322",
+    "item": "to stutter",
+    "translation": "заикаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_323",
+    "item": "to stammer",
+    "translation": "запинаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_324",
+    "item": "to indicate",
+    "translation": "указывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_325",
+    "item": "determine",
+    "translation": "определять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_326",
+    "item": "expand",
+    "translation": "расширять / развивать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_327",
+    "item": "allege",
+    "translation": "утверждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_328",
+    "item": "allegedly",
+    "translation": "якобы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_329",
+    "item": "cunning",
+    "translation": "хитрость / хитрый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_330",
+    "item": "mature",
+    "translation": "зрелый / созреть / взрослеть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_331",
+    "item": "permissible",
+    "translation": "допустимый / позволительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_332",
+    "item": "justify",
+    "translation": "оправдывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_333",
+    "item": "bucket list",
+    "translation": "список того, что нужно сделать за жизнь",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_334",
+    "item": "lively",
+    "translation": "оживленный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_335",
+    "item": "distant",
+    "translation": "далекий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_336",
+    "item": "crowded",
+    "translation": "переполненный / многолюдный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_337",
+    "item": "old-fashioned",
+    "translation": "старомодный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_338",
+    "item": "mysterious",
+    "translation": "таинственный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_339",
+    "item": "gorgeous",
+    "translation": "великолепный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_340",
+    "item": "dig deeper",
+    "translation": "копать глубже",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_341",
+    "item": "convince",
+    "translation": "убеждать / уверять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_342",
+    "item": "consider",
+    "translation": "рассмотреть возможность / учитывать / рассматривать / считать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_343",
+    "item": "proceed",
+    "translation": "продолжать / приступать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_344",
+    "item": "assumption",
+    "translation": "предположение / допускать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_345",
+    "item": "caveat",
+    "translation": "предостережение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_346",
+    "item": "staycation",
+    "translation": "отпуск проведенный в родной стране, а не за границей",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_347",
+    "item": "hometown",
+    "translation": "родной город",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_348",
+    "item": "resort",
+    "translation": "курорт / прибегнуть / обращаться за помощью",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_349",
+    "item": "host",
+    "translation": "принимать гостей / хозяин",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_350",
+    "item": "spectacular",
+    "translation": "изумительный / эффектный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_351",
+    "item": "to go sightseeing",
+    "translation": "осматривать достопримечательности",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_352",
+    "item": "opt out",
+    "translation": "уклоняться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_353",
+    "item": "conscious",
+    "translation": "сознательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_354",
+    "item": "harm",
+    "translation": "вред",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_355",
+    "item": "threat",
+    "translation": "угроза",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_356",
+    "item": "artificial",
+    "translation": "искусственный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_357",
+    "item": "similarly",
+    "translation": "по аналогии / подобным образом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_358",
+    "item": "interact",
+    "translation": "взаимодействовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_359",
+    "item": "adjustment",
+    "translation": "корректирование / регулировка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_360",
+    "item": "manufacturer",
+    "translation": "производитель / изготовитель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_361",
+    "item": "inaction",
+    "translation": "бездействие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_362",
+    "item": "loss-making",
+    "translation": "убыточный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_363",
+    "item": "to suffer from",
+    "translation": "страдать от",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_364",
+    "item": "aspire",
+    "translation": "стремиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_365",
+    "item": "to differentiate",
+    "translation": "различать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_366",
+    "item": "distinguish",
+    "translation": "различать / отличать / выделить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_367",
+    "item": "to exploit",
+    "translation": "использовать в своих интересах / эксплуатировать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_368",
+    "item": "transparent",
+    "translation": "прозрачный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_369",
+    "item": "to benefit from",
+    "translation": "извлечь выгоду из",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_370",
+    "item": "idle",
+    "translation": "праздный / холостой (ход)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_371",
+    "item": "conscience",
+    "translation": "совесть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_372",
+    "item": "a clear conscience",
+    "translation": "чистая совесть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_373",
+    "item": "geather",
+    "translation": "собирать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_374",
+    "item": "feasible",
+    "translation": "достижимый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_375",
+    "item": "to outlaw",
+    "translation": "объявить вне закона",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_376",
+    "item": "outlaw",
+    "translation": "вне закона / изгой",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_377",
+    "item": "to withstand",
+    "translation": "противостоять / выдерживать / выстоять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_378",
+    "item": "bizarre",
+    "translation": "причудливый / странный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_379",
+    "item": "legislative",
+    "translation": "законодательный / законодательные органы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_380",
+    "item": "former",
+    "translation": "бывший / прежний",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_381",
+    "item": "compel",
+    "translation": "принуждать / заставлять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_382",
+    "item": "violate",
+    "translation": "нарушать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_383",
+    "item": "vast",
+    "translation": "огромный / обширный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_384",
+    "item": "claim",
+    "translation": "требовать / претендовать / утверждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_385",
+    "item": "sidewalk",
+    "translation": "тротуар",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_386",
+    "item": "beside",
+    "translation": "рядом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_387",
+    "item": "validate",
+    "translation": "подтверждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_388",
+    "item": "invalidate",
+    "translation": "аннулировать / делать недействительным",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_389",
+    "item": "burnout",
+    "translation": "выгореть / выгорание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_390",
+    "item": "apathy",
+    "translation": "апатия",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_391",
+    "item": "unwind",
+    "translation": "размотать / отдохнуть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_392",
+    "item": "overwhelmed",
+    "translation": "перегруженный / ошеломленный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_393",
+    "item": "drain",
+    "translation": "осушать / отток / водосток",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_394",
+    "item": "stressed out",
+    "translation": "напряженный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_395",
+    "item": "to get stressed about",
+    "translation": "напрягаться по поводу",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_396",
+    "item": "to get distracted",
+    "translation": "отвлечься",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_397",
+    "item": "a sense of purpose",
+    "translation": "целеустремленность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_398",
+    "item": "to feel restored",
+    "translation": "чувствовать себя восстановленным",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_399",
+    "item": "to feel lethargic",
+    "translation": "чувствовать себя вялым",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_400",
+    "item": "intensifier",
+    "translation": "усилитель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_401",
+    "item": "fatigue",
+    "translation": "усталость / утомление",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_402",
+    "item": "elsewhere (somewhere else)",
+    "translation": "в другом месте",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_403",
+    "item": "mansion",
+    "translation": "особняк",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_404",
+    "item": "blanket",
+    "translation": "одеяло / покрывать одеялом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_405",
+    "item": "blanketed",
+    "translation": "покрытый одеялом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_406",
+    "item": "trudge",
+    "translation": "тащиться / длинный трудный путь",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_407",
+    "item": "poke",
+    "translation": "тыкать /  совать / тычок",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_408",
+    "item": "creepy",
+    "translation": "противный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_409",
+    "item": "behind",
+    "translation": "позади / сзади",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_410",
+    "item": "spoil",
+    "translation": "портиться / портить / баловать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_411",
+    "item": "will",
+    "translation": "завещание / воля / твердое намерение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_412",
+    "item": "stubborn",
+    "translation": "упрямый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_413",
+    "item": "pick out",
+    "translation": "выбрать / выделить / выковыривать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_414",
+    "item": "pick up",
+    "translation": "подбирать / забрать / подцепить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_415",
+    "item": "declare",
+    "translation": "объявить / заявлять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_416",
+    "item": "urge",
+    "translation": "побуждать /  убеждать / настаивать на",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_417",
+    "item": "cheer up",
+    "translation": "взбодриться / развеселить / развеселиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_418",
+    "item": "cheer",
+    "translation": "радость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_419",
+    "item": "bow",
+    "translation": "лук (что бы стрелять) / поклон / бант",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_420",
+    "item": "eagerly",
+    "translation": "с нетерпением",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_421",
+    "item": "backache",
+    "translation": "боль в спине",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_422",
+    "item": "stomachache",
+    "translation": "боли в животе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_423",
+    "item": "headache",
+    "translation": "головная боль",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_424",
+    "item": "come across",
+    "translation": "встретить / натолкнуться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_425",
+    "item": "feel sick",
+    "translation": "чувствовать себя больным",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_426",
+    "item": "first aid",
+    "translation": "первая помощь",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_427",
+    "item": "certain",
+    "translation": "определенный / уверенный / некоторый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_428",
+    "item": "enormous",
+    "translation": "громадный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_429",
+    "item": "counteract",
+    "translation": "противодействовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_430",
+    "item": "whereupon",
+    "translation": "после чего",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_431",
+    "item": "put up",
+    "translation": "мириться / терпеть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_432",
+    "item": "drop",
+    "translation": "капля",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_433",
+    "item": "last straw",
+    "translation": "последняя капля",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_434",
+    "item": "break up",
+    "translation": "расставаться / разойтись / разбивать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_435",
+    "item": "to keep fit",
+    "translation": "поддерживать форму",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_436",
+    "item": "strengthen",
+    "translation": "укреплять / усиливать / крепить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_437",
+    "item": "to dust off",
+    "translation": "стряхнуть пыль (back to use again)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_438",
+    "item": "to do the dishes / to wash the dishes",
+    "translation": "мыть посуду",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_439",
+    "item": "wash up",
+    "translation": "мыть посуду / умываться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_440",
+    "item": "gain weight",
+    "translation": "набрать вес",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_441",
+    "item": "treadmill / running track",
+    "translation": "беговая дорожка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_442",
+    "item": "farthest",
+    "translation": "самый дальний / дальний",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_443",
+    "item": "pastime",
+    "translation": "времяпрепровождение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_444",
+    "item": "work out",
+    "translation": "упражняться / разработать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_445",
+    "item": "warm-up",
+    "translation": "разогревать / разминать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_446",
+    "item": "bench press",
+    "translation": "жим лежа",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_447",
+    "item": "eye-opener",
+    "translation": "сенсационное сообщение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_448",
+    "item": "elaborate",
+    "translation": "детально разработанный / продуманный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_449",
+    "item": "scribble",
+    "translation": "каракули / неразборчивый почерк",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_450",
+    "item": "tap into",
+    "translation": "подключиться к",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_451",
+    "item": "prosperous",
+    "translation": "процветающий / зажиточный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_452",
+    "item": "elate",
+    "translation": "ликовать / поднимать настроение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_453",
+    "item": "intimidate",
+    "translation": "запугивать / устрашать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_454",
+    "item": "money laundering",
+    "translation": "отмывание денег",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_455",
+    "item": "the impostor syndrome",
+    "translation": "синдром самозванца",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_456",
+    "item": "fraud",
+    "translation": "мошенничество / афера",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_457",
+    "item": "downplay",
+    "translation": "преуменьшать значение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_458",
+    "item": "to master",
+    "translation": "освоить / овладевать / владеть",
+    "context": "to master a language",
+    "contextTranslation": "овладеть языком",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_459",
+    "item": "to conduct",
+    "translation": "проводить / вести",
+    "context": "to conduct a study",
+    "contextTranslation": "провести исследование",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_460",
+    "item": "bilingual",
+    "translation": "двуязычный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_461",
+    "item": "outdated",
+    "translation": "устаревший",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_462",
+    "item": "alternate",
+    "translation": "чередовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_463",
+    "item": "benevolent",
+    "translation": "доброжелательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_464",
+    "item": "setback",
+    "translation": "неудача",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_465",
+    "item": "venture",
+    "translation": "рискнуть / осмелиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_466",
+    "item": "bloom",
+    "translation": "цвести (о человеке)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_467",
+    "item": "censor",
+    "translation": "подвергнуть цензуре / цензура",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_468",
+    "item": "acquire",
+    "translation": "приобретать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_469",
+    "item": "buzz",
+    "translation": "гул / гудеть / жужжать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_470",
+    "item": "scrutinize",
+    "translation": "тщательно исследовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_471",
+    "item": "envision",
+    "translation": "представить / рисовать в своем воображении",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_472",
+    "item": "mug",
+    "translation": "кружка / рожа / морда",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_473",
+    "item": "beer mug",
+    "translation": "пивная кружка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_474",
+    "item": "to blur",
+    "translation": "размыть / затуманить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_475",
+    "item": "heightened",
+    "translation": "повышенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_476",
+    "item": "regain dignity",
+    "translation": "восстановить достоинство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_477",
+    "item": "acclaimed",
+    "translation": "известный / провозглашенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_478",
+    "item": "scales",
+    "translation": "весы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_479",
+    "item": "jaw",
+    "translation": "челюсть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_480",
+    "item": "jawline",
+    "translation": "подбородок",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_481",
+    "item": "graft",
+    "translation": "прививка / прививать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_482",
+    "item": "scar",
+    "translation": "шрам",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_483",
+    "item": "buttock",
+    "translation": "ягодица",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_484",
+    "item": "dimple",
+    "translation": "ямочка (на лице) / углубление",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_485",
+    "item": "excess",
+    "translation": "избыток / избыточный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_486",
+    "item": "surgeon",
+    "translation": "врач хирург",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_487",
+    "item": "impose (impose on)",
+    "translation": "навязывать / навязаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_488",
+    "item": "breed",
+    "translation": "порода / разводить / расплодить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_489",
+    "item": "conformity",
+    "translation": "соответствие / согласованность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_490",
+    "item": "pickles",
+    "translation": "соленья / маринованные огурцы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_491",
+    "item": "awkward",
+    "translation": "неуклюжий / неловкий / неудобный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_492",
+    "item": "attitude",
+    "translation": "отношение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_493",
+    "item": "generalize",
+    "translation": "обобщать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_494",
+    "item": "to laugh off",
+    "translation": "отшутиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_495",
+    "item": "tell off",
+    "translation": "отчитать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_496",
+    "item": "offensive",
+    "translation": "оскорбительный / наступательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_497",
+    "item": "vague",
+    "translation": "неопределенный / расплывчатый",
+    "context": "to have vague memories of smth",
+    "contextTranslation": "иметь смутные воспоминания о",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_498",
+    "item": "code of conduct",
+    "translation": "нормы поведения",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_499",
+    "item": "conduct",
+    "translation": "поведение/ведение | проводить/вести",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_500",
+    "item": "distorted",
+    "translation": "искаженный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_501",
+    "item": "distort",
+    "translation": "искажать / передергивать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_502",
+    "item": "eyewitness",
+    "translation": "очевидец",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_503",
+    "item": "mishmash",
+    "translation": "мешанина / путаница",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_504",
+    "item": "insinuate / hint",
+    "translation": "намекать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_505",
+    "item": "fictional",
+    "translation": "вымышленный / выдуманный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_506",
+    "item": "to water down",
+    "translation": "разбавлять (сделать менее сильным / интенсивным)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_507",
+    "item": "anxiety",
+    "translation": "беспокойство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_508",
+    "item": "self-esteem",
+    "translation": "самооценка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_509",
+    "item": "itch",
+    "translation": "испытывать зуд / чесаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_510",
+    "item": "sleep disorder",
+    "translation": "расстройство сна",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_511",
+    "item": "FOMO (fear of missing out)",
+    "translation": "страх пропустить что-то интересное",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_512",
+    "item": "anxious",
+    "translation": "тревожный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_513",
+    "item": "consequence",
+    "translation": "последствие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_514",
+    "item": "leftovers",
+    "translation": "остатки / объедки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_515",
+    "item": "catchphrase",
+    "translation": "крылатая фраза",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_516",
+    "item": "stock up on",
+    "translation": "запастись",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_517",
+    "item": "edible",
+    "translation": "съедобный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_518",
+    "item": "single-use items",
+    "translation": "одноразовые предметы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_519",
+    "item": "on the flip side",
+    "translation": "с другой стороны",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_520",
+    "item": "deforestation",
+    "translation": "вырубка леса",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_521",
+    "item": "wastewater",
+    "translation": "сточные воды",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_522",
+    "item": "wind turbines",
+    "translation": "ветряные турбины",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_523",
+    "item": "cuddly toys",
+    "translation": "мягкие игрушки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_524",
+    "item": "robbery",
+    "translation": "ограбление",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_525",
+    "item": "bargain",
+    "translation": "торг / сделка / торговаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_526",
+    "item": "haggle",
+    "translation": "торговаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_527",
+    "item": "to trick",
+    "translation": "обмануть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_528",
+    "item": "outlandish",
+    "translation": "диковинный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_529",
+    "item": "appliances",
+    "translation": "бытовая техника",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_530",
+    "item": "enlarge",
+    "translation": "увеличить / укрупнять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_531",
+    "item": "recognition",
+    "translation": "признание / распознавание / опознавание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_532",
+    "item": "acknowledge",
+    "translation": "признавать / подтверждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_533",
+    "item": "compel",
+    "translation": "заставить / принуждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_534",
+    "item": "to be obsessed with",
+    "translation": "быть одержимым",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_535",
+    "item": "obsession",
+    "translation": "одержимость / навязчивая идея",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_536",
+    "item": "develop",
+    "translation": "развивать / разрабатывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_537",
+    "item": "notorious",
+    "translation": "печально известный / пресловутый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_538",
+    "item": "to die out",
+    "translation": "вымирать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_539",
+    "item": "a handful of",
+    "translation": "горсть / пригоршня",
+    "context": "a handful of languages",
+    "contextTranslation": "несколько языков",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_540",
+    "item": "occasionally",
+    "translation": "изредка / иногда",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_541",
+    "item": "endangered",
+    "translation": "находящихся под угрозой исчезновения",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_542",
+    "item": "at the rate of",
+    "translation": "в размере",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_543",
+    "item": "a heritage",
+    "translation": "наследие",
+    "context": "a cultural heritage",
+    "contextTranslation": "культурное наследие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_544",
+    "item": "extinction",
+    "translation": "исчезновение / вымирание",
+    "context": "a situation in which something no longer exists",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_545",
+    "item": "species",
+    "translation": "разновидность / вид / порода",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_546",
+    "item": "harmful",
+    "translation": "вредный / пагубный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_547",
+    "item": "real estate",
+    "translation": "недвижимость",
+    "context": "a real estate agent",
+    "contextTranslation": "агент по недвижимости",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_548",
+    "item": "estate",
+    "translation": "имущество / поместье / имение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_549",
+    "item": "landlord",
+    "translation": "помещик / землевладелец / хозяин квартиры",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_550",
+    "item": "tenant",
+    "translation": "арендатор / жилец",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_551",
+    "item": "flatmate",
+    "translation": "сосед по квартире",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_552",
+    "item": "renovate",
+    "translation": "ремонтировать / делать ремонт (в квартире) / обновлять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_553",
+    "item": "to move house",
+    "translation": "переезжать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_554",
+    "item": "to pay the rent",
+    "translation": "платить за аренду",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_555",
+    "item": "rent out",
+    "translation": "сдать в аренду",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_556",
+    "item": "rent",
+    "translation": "арендовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_557",
+    "item": "inspiring",
+    "translation": "вдохновляющий",
+    "context": "fill (someone) with the ability to do or feel something, especially to do something creative;",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_558",
+    "item": "outdoors",
+    "translation": "на открытом воздухе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_559",
+    "item": "homey",
+    "translation": "домашний",
+    "context": "comfortable and cosy",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_560",
+    "item": "dormitory / dorm",
+    "translation": "общежитие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_561",
+    "item": "haunt",
+    "translation": "преследовать / часто посещать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_562",
+    "item": "carefree",
+    "translation": "беззаботный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_563",
+    "item": "workaholic",
+    "translation": "трудоголик",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_564",
+    "item": "productive",
+    "translation": "продуктивный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_565",
+    "item": "collaborative",
+    "translation": "совместный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_566",
+    "item": "collaborate",
+    "translation": "сотрудничать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_567",
+    "item": "apprenticeship",
+    "translation": "стажировка / ученичество",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_568",
+    "item": "one-on-one meeting",
+    "translation": "встреча один на один",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_569",
+    "item": "to feel valued",
+    "translation": "чувствовать себя ценным",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_570",
+    "item": "envy",
+    "translation": "завидовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_571",
+    "item": "span",
+    "translation": "охватывать / диапазон",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_572",
+    "item": "survey",
+    "translation": "опрос",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_573",
+    "item": "upkeep for the house",
+    "translation": "содержание дома",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_574",
+    "item": "amateur",
+    "translation": "любитель / дилетант",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_575",
+    "item": "oath",
+    "translation": "клятва / присяга",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_576",
+    "item": "spectator",
+    "translation": "зритель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_577",
+    "item": "stamina",
+    "translation": "выносливость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_578",
+    "item": "substitute",
+    "translation": "заменять / замещать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_579",
+    "item": "compete",
+    "translation": "конкурировать / соревноваться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_580",
+    "item": "torch",
+    "translation": "факел",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_581",
+    "item": "wise",
+    "translation": "мудрый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_582",
+    "item": "goodwill",
+    "translation": "доброжелательность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_583",
+    "item": "generosity",
+    "translation": "щедрость / великодушие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_584",
+    "item": "orphan",
+    "translation": "сирота",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_585",
+    "item": "orphanage",
+    "translation": "приют для сирот",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_586",
+    "item": "refuge",
+    "translation": "убежище",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_587",
+    "item": "implore",
+    "translation": "умолять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_588",
+    "item": "nonprofit organization",
+    "translation": "некоммерческая организация",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_589",
+    "item": "run out of",
+    "translation": "исчерпать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_590",
+    "item": "consequences",
+    "translation": "последствия",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_591",
+    "item": "be compatible",
+    "translation": "быть совместимым",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_592",
+    "item": "to bring someone up to speed",
+    "translation": "ввести кого-либо в курс дела",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_593",
+    "item": "cash machine",
+    "translation": "банкомат",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_594",
+    "item": "note",
+    "translation": "примечание / заметка / банкнота",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_595",
+    "item": "borrow",
+    "translation": "занимать / заимствовать у кого-либо",
+    "context": "to ask for the temporary use of money on the condition of repayment and at a set rate of interest",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_596",
+    "item": "cashier",
+    "translation": "кассир",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_597",
+    "item": "lend",
+    "translation": "одалживать / давать в займы",
+    "context": "to give the temporary use of money on the condition of repayment and at a set rate of interest",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_598",
+    "item": "vulnerability",
+    "translation": "уязвимость",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_599",
+    "item": "vulnerable",
+    "translation": "уязвимый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_600",
+    "item": "drawbacks",
+    "translation": "недостатки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_601",
+    "item": "selfish",
+    "translation": "эгоистичный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_602",
+    "item": "myths busters",
+    "translation": "разрушители мифов",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_603",
+    "item": "narrative",
+    "translation": "повествование / рассказ",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_604",
+    "item": "embody",
+    "translation": "воплощать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_605",
+    "item": "problematic",
+    "translation": "проблемный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_606",
+    "item": "fictitious",
+    "translation": "фиктивный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_607",
+    "item": "underlying",
+    "translation": "лежащий в основе",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_608",
+    "item": "underline",
+    "translation": "подчеркнуть",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_609",
+    "item": "superstition",
+    "translation": "суеверие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_610",
+    "item": "to yawn",
+    "translation": "зевать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_611",
+    "item": "persuade",
+    "translation": "убеждать / уговаривать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_612",
+    "item": "boost",
+    "translation": "способствовать росту / форсировать / подпихивать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_613",
+    "item": "interfere",
+    "translation": "вмешиваться / мешать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_614",
+    "item": "perceive",
+    "translation": "воспринимать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_615",
+    "item": "dictate",
+    "translation": "диктовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_616",
+    "item": "pretty much",
+    "translation": "почти / в достаточной степени",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_617",
+    "item": "relevancy",
+    "translation": "релевантность / уместность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_618",
+    "item": "hereditary",
+    "translation": "наследственный / потомственный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_619",
+    "item": "Her Majesty/Her Royal Highness",
+    "translation": "Ее Величество / Ее Королевское Высочество",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_620",
+    "item": "law-abiding",
+    "translation": "законопослушный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_621",
+    "item": "spill",
+    "translation": "проливать / разливать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_622",
+    "item": "untangle",
+    "translation": "распутывать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_623",
+    "item": "tangled",
+    "translation": "запутанный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_624",
+    "item": "sigh",
+    "translation": "вздох / вздыхать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_625",
+    "item": "propensity",
+    "translation": "склонность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_626",
+    "item": "rein in",
+    "translation": "держать в узде",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_627",
+    "item": "harness",
+    "translation": "обуздать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_628",
+    "item": "genuinely",
+    "translation": "искренне",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_629",
+    "item": "sidekick",
+    "translation": "приятель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_630",
+    "item": "villain",
+    "translation": "злодей",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_631",
+    "item": "battle",
+    "translation": "сражение / бой / боевой",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_632",
+    "item": "revenge",
+    "translation": "месть / мстить / реванш",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_633",
+    "item": "ammunition",
+    "translation": "боеприпасы / патроны /  аммуниция",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_634",
+    "item": "nerd",
+    "translation": "зануда / умних / лох",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_635",
+    "item": "wisecrack",
+    "translation": "остроумие / острить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_636",
+    "item": "indestructible",
+    "translation": "нерушимый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_637",
+    "item": "rogue",
+    "translation": "негодяй / жулик / мошенник",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_638",
+    "item": "genre [ˈZHänrə]",
+    "translation": "жанр",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_639",
+    "item": "rhythm",
+    "translation": "ритм",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_640",
+    "item": "backing singer",
+    "translation": "бэк-вокалист",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_641",
+    "item": "cognitive",
+    "translation": "познавательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_642",
+    "item": "appointment",
+    "translation": "встреча",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_643",
+    "item": "wooing",
+    "translation": "ухаживание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_644",
+    "item": "scammer",
+    "translation": "мошенник",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_645",
+    "item": "clue",
+    "translation": "зацепка / улика",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_646",
+    "item": "handcuffs",
+    "translation": "наручники",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_647",
+    "item": "bliss",
+    "translation": "блаженство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_648",
+    "item": "fake",
+    "translation": "подделка / фальшивка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_649",
+    "item": "dazzling",
+    "translation": "ослепительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_650",
+    "item": "arrogant",
+    "translation": "высокомерный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_651",
+    "item": "nasty",
+    "translation": "противный / неприятный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_652",
+    "item": "cruel",
+    "translation": "жестокий",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_653",
+    "item": "quick-tempered",
+    "translation": "вспыльчивый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_654",
+    "item": "persistent",
+    "translation": "настойчивый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_655",
+    "item": "engage",
+    "translation": "привлекать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_656",
+    "item": "generous",
+    "translation": "щедрый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_657",
+    "item": "purposeful",
+    "translation": "целеустремленный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_658",
+    "item": "assertive",
+    "translation": "напористый / чрезмерно настойчивый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_659",
+    "item": "bandwidth",
+    "translation": "пропускная способность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_660",
+    "item": "alumnus",
+    "translation": "выпускник",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_661",
+    "item": "gifted",
+    "translation": "одаренный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_662",
+    "item": "organized",
+    "translation": "организованный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_663",
+    "item": "overactive",
+    "translation": "сверхактивный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_664",
+    "item": "goofy",
+    "translation": "бестолковый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_665",
+    "item": "sociable",
+    "translation": "общительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_666",
+    "item": "a class reunion",
+    "translation": "встреча выпускников",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_667",
+    "item": "to skip school/class",
+    "translation": "пропускать школу/уроки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_668",
+    "item": "boast",
+    "translation": "хвастаться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_669",
+    "item": "wagering / betting",
+    "translation": "делать ставки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_670",
+    "item": "wager / stake",
+    "translation": "ставка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_671",
+    "item": "trigger",
+    "translation": "курок / триггер",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_672",
+    "item": "reputable",
+    "translation": "уважаемый / достойный уважения",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_673",
+    "item": "unquestionably",
+    "translation": "несомненно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_674",
+    "item": "an expert bettor",
+    "translation": "эксперт по ставкам",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_675",
+    "item": "integrity",
+    "translation": "целостность / честность",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_676",
+    "item": "reconciliation",
+    "translation": "примирение",
+    "context": "His reconciliation with your uncle",
+    "contextTranslation": "Его примирение с твоим дядей",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_677",
+    "item": "embrace",
+    "translation": "объятия",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_678",
+    "item": "embracing",
+    "translation": "охватывающий / объятия",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_679",
+    "item": "remorse",
+    "translation": "раскаяние / угрызения совести",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_680",
+    "item": "aggrieved",
+    "translation": "обиженный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_681",
+    "item": "authentic",
+    "translation": "аутентичный / подлинный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_682",
+    "item": "submissive",
+    "translation": "покорный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_683",
+    "item": "an offensive gesture",
+    "translation": "оскорбительный жест",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_684",
+    "item": "curious glances",
+    "translation": "любопытные взгляды",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_685",
+    "item": "inevitable",
+    "translation": "неизбежный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_686",
+    "item": "trivial",
+    "translation": "тривиальный / обыденный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_687",
+    "item": "bawl",
+    "translation": "реветь / орать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_688",
+    "item": "threaten",
+    "translation": "угрожать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_689",
+    "item": "canvas",
+    "translation": "холст / полотно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_690",
+    "item": "palette",
+    "translation": "палитра",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_691",
+    "item": "sketch",
+    "translation": "эскиз",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_692",
+    "item": "shoot off",
+    "translation": "отстреливать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_693",
+    "item": "rampage",
+    "translation": "буйство / неистовствовать / быть вне себя от ярости",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_694",
+    "item": "easy access",
+    "translation": "легкий доступ",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_695",
+    "item": "massacre",
+    "translation": "резня / бойня / избиение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_696",
+    "item": "restrain",
+    "translation": "сдерживать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_697",
+    "item": "loaded",
+    "translation": "заряженный (про оружие)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_698",
+    "item": "mandatory",
+    "translation": "обязательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_699",
+    "item": "arms race",
+    "translation": "гонка вооружений",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_700",
+    "item": "assault",
+    "translation": "атаковать / штурмовой / штурмовать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_701",
+    "item": "indulge",
+    "translation": "потакать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_702",
+    "item": "indulgent",
+    "translation": "снисходительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_703",
+    "item": "wrinkly",
+    "translation": "морщинистый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_704",
+    "item": "contrary",
+    "translation": "вопреки",
+    "context": "contrary to your opinion / contrary to the stereotype",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_705",
+    "item": "reluctant",
+    "translation": "вынужденный",
+    "context": "they are reluctant to help",
+    "contextTranslation": "они не горят желаением помогать.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_706",
+    "item": "restrict",
+    "translation": "ограничивать",
+    "context": "to restrict someone's freedom",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_707",
+    "item": "contribute",
+    "translation": "способствовать / делать вклад",
+    "context": "to contribute a lot to the discussion",
+    "contextTranslation": "активно способствовать дискуссии",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_708",
+    "item": "naughty",
+    "translation": "непослушный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_709",
+    "item": "harbour",
+    "translation": "порт / гавань",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_710",
+    "item": "carriage",
+    "translation": "вагон",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_711",
+    "item": "crossing",
+    "translation": "переправа / переезд по воде",
+    "context": "The passengers were seasick during the rough crossing",
+    "contextTranslation": "Пассажиров укачало во время тяжелого перехода",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_712",
+    "item": "deck",
+    "translation": "палуба / колода",
+    "context": "go out on a deck",
+    "contextTranslation": "выйти на палубу",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_713",
+    "item": "tyre/tire",
+    "translation": "шина",
+    "context": "flat tyre / puncture the tire",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_714",
+    "item": "fasten seatbelt",
+    "translation": "пристегните ремни",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_715",
+    "item": "jetlag",
+    "translation": "расстройство суточного биоритма в связи с дальним перелетом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_716",
+    "item": "pour",
+    "translation": "налить",
+    "context": "Be careful not to pour too much, or it'll spill.",
+    "contextTranslation": "Будьте осторожны, не наливайте слишком много, иначе оно прольется.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_717",
+    "item": "pouring with rain",
+    "translation": "проливной дождь",
+    "context": "We couldn't go out because it was pouring with rain.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_718",
+    "item": "take-off / landing",
+    "translation": "взлет / посадка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_719",
+    "item": "overtake",
+    "translation": "обогнать / догнать",
+    "context": "to overtake a car",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_720",
+    "item": "tight bend",
+    "translation": "крутой изгиб",
+    "context": "The road took a tight bend, forcing the driver to slow down.",
+    "contextTranslation": "Дорога сделала крутой поворот, и водителю пришлось сбросить скорость.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_721",
+    "item": "bumpy",
+    "translation": "бугристый / неровный",
+    "context": "bumpy road / bumpy handwriting",
+    "contextTranslation": "бугристая дорога / неровный почерк",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_722",
+    "item": "slippery",
+    "translation": "скользкий",
+    "context": "The path was slippery after the rain.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_723",
+    "item": "dreadful",
+    "translation": "ужасный",
+    "context": "The news was dreadful",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_724",
+    "item": "travel light",
+    "translation": "путешествовать налегке",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_725",
+    "item": "rough",
+    "translation": "грубый, бурный, шероховатый",
+    "context": "rough sea",
+    "contextTranslation": "море с сильным волнением",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_726",
+    "item": "travel by coach",
+    "translation": "путешествовать на автобусе (пригородный автобус)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_727",
+    "item": "jitterbug",
+    "translation": "паникер",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_728",
+    "item": "riddle",
+    "translation": "загадка",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_729",
+    "item": "plug",
+    "translation": "затыкать / вставлять",
+    "context": "She searched for a free socket to plug in her laptop at the crowded cafe.",
+    "contextTranslation": "Она искала свободную розетку, чтобы подключить свой ноутбук в переполненном кафе.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_730",
+    "item": "socket",
+    "translation": "розетка / разъем",
+    "context": "check everything is plugged in to the correct socket",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_731",
+    "item": "external hard drive",
+    "translation": "внешний жесткий диск",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_732",
+    "item": "blank",
+    "translation": "пустой / чистый",
+    "context": "empty, without an image / text",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_733",
+    "item": "straightforward",
+    "translation": "простой / прямой",
+    "context": "Navigator make getting around really straightforward",
+    "contextTranslation": "Навигатор делает передвижение действительно простым",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_734",
+    "item": "arrange",
+    "translation": "договариваться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_735",
+    "item": "flu",
+    "translation": "грипп",
+    "context": "She caught the flu and had to stay home",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_736",
+    "item": "an allergy to",
+    "translation": "аллергия на",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_737",
+    "item": "an allergic reaction",
+    "translation": "аллергическая реакция",
+    "context": "She experienced an allergic reaction after eating shellfish.",
+    "contextTranslation": "У нее возникла аллергическая реакция после употребления моллюсков.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_738",
+    "item": "toothache",
+    "translation": "зубная боль",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_739",
+    "item": "break a bone",
+    "translation": "сломать кость",
+    "context": "He fell off his bike and broke a collarbone.",
+    "contextTranslation": "Он упал с велосипеда и сломал ключицу.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_740",
+    "item": "get a frostbite / sunburn / burn",
+    "translation": "получить обморожение / солнечный ожог / ожог",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_741",
+    "item": "get wounded",
+    "translation": "получить ранение",
+    "context": "She got wounded during the battle but continued to fight bravely.",
+    "contextTranslation": "В бою она была ранена, но продолжала мужественно сражаться.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_742",
+    "item": "bruise",
+    "translation": "синяк",
+    "context": "get bruised",
+    "contextTranslation": "получить синяки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_743",
+    "item": "swollen",
+    "translation": "вздутый / набухший",
+    "context": "Her ankle was swollen after spraining it during the game.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_744",
+    "item": "sprain an ankle",
+    "translation": "вывихнуть лодыжку",
+    "context": "Her ankle was swollen after spraining it during the game.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_745",
+    "item": "runny nose",
+    "translation": "насморк",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_746",
+    "item": "feel dizzy",
+    "translation": "чувствовать головокружение",
+    "context": "She stood up too quickly and began to feel dizzy.",
+    "contextTranslation": "Она встала слишком быстро, и у нее закружилась голова.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_747",
+    "item": "lose consciousness / faint",
+    "translation": "потерять сознание",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_748",
+    "item": "unconscious",
+    "translation": "бессознательный (без сознания)",
+    "context": "the man lies unconscious",
+    "contextTranslation": "человек лежит без сознания",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_749",
+    "item": "cardiopulmonary resuscitation (CPR)",
+    "translation": "сердечно-легочная реанимация (непрямой массаж сердца и искуственное дыхание)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_750",
+    "item": "have a cough",
+    "translation": "кашлять",
+    "context": "He couldn't sleep because of a nasty cough",
+    "contextTranslation": "Он не мог спать из-за противного кашля.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_751",
+    "item": "throw up / puke",
+    "translation": "тошнить / рвать / блевать",
+    "context": "He felt sick and suddenly had to puke.",
+    "contextTranslation": "Ему стало плохо, и его внезапно стошнило.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_752",
+    "item": "take painkillers",
+    "translation": "принимать обезболивающие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_753",
+    "item": "drink fluids",
+    "translation": "пить жидкости",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_754",
+    "item": "put on bandage / plaster",
+    "translation": "наложить повязку / гипс",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_755",
+    "item": "put on stitches",
+    "translation": "наложить швы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_756",
+    "item": "heal / mend",
+    "translation": "исцелиться",
+    "context": "Time and rest will help heal the wound.",
+    "contextTranslation": "Время и отдых помогут залечить рану.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_757",
+    "item": "blister",
+    "translation": "волдырь",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_758",
+    "item": "itch",
+    "translation": "зуд",
+    "context": "After rolling in the grass, his skin began to itch",
+    "contextTranslation": "После того, как он повалялся в траве, у него начала чесаться кожа.",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_759",
+    "item": "rash",
+    "translation": "сыпь",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_760",
+    "item": "hardly",
+    "translation": "едва ли",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_761",
+    "item": "sting",
+    "translation": "жало / ужалить",
+    "context": "sting on the arm",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_762",
+    "item": "get stung by a bee",
+    "translation": "быть ужаленным пчелой",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_763",
+    "item": "crash into a car / tree",
+    "translation": "врезаться в машину / дерево",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_764",
+    "item": "slip on wet floor / banana peel",
+    "translation": "поскользнуться на мокром полу / банановой кожуре",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_765",
+    "item": "trip over someone’s leg / wire",
+    "translation": "споткнуться о чью-то ногу / провод",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_766",
+    "item": "ladder",
+    "translation": "лестница",
+    "context": "fall off a ladder",
+    "contextTranslation": "упасть с лестницы",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_767",
+    "item": "resign",
+    "translation": "подать в отставку",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_768",
+    "item": "call a ceasefire",
+    "translation": "объявить о прекращении огня",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_769",
+    "item": "go bankrupt",
+    "translation": "обанкротиться",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_770",
+    "item": "action / share",
+    "translation": "акция (компании)",
+    "context": "share price",
+    "contextTranslation": "цена акции",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_771",
+    "item": "impediment",
+    "translation": "препятствие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_772",
+    "item": "claim",
+    "translation": "требовать / претендовать / утверждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_773",
+    "item": "accuse",
+    "translation": "обвинять",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_774",
+    "item": "admit",
+    "translation": "признавать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_775",
+    "item": "fed up with",
+    "translation": "сыт по горло",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_776",
+    "item": "tiled floor",
+    "translation": "кафельный пол",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_777",
+    "item": "tutor",
+    "translation": "репетитор",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_778",
+    "item": "medieval",
+    "translation": "средневековый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_779",
+    "item": "evenly",
+    "translation": "равномерно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_780",
+    "item": "thumbnail",
+    "translation": "миниатюра",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_781",
+    "item": "vault",
+    "translation": "сейф",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_782",
+    "item": "fat loss activity",
+    "translation": "активность по снижению жира",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_783",
+    "item": "deliberate",
+    "translation": "осознанный / преднамеренный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_784",
+    "item": "hence",
+    "translation": "следовательно",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_785",
+    "item": "warehouse",
+    "translation": "склад",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_786",
+    "item": "brake",
+    "translation": "тормоз",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_787",
+    "item": "break",
+    "translation": "перерыв / сломать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_788",
+    "item": "bribery",
+    "translation": "взяточничество",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_789",
+    "item": "circumstances",
+    "translation": "обстоятельства",
+    "context": "under the circumstances",
+    "contextTranslation": "при данных обстоятельствах",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_790",
+    "item": "conscientious",
+    "translation": "добросовестный / сознательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_791",
+    "item": "conscious",
+    "translation": "сознательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_792",
+    "item": "clash",
+    "translation": "столкновение / конфликт",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_793",
+    "item": "flaw",
+    "translation": "недостаток / изъян",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_794",
+    "item": "flawed",
+    "translation": "несовершенный",
+    "context": "flawed, but still top tier",
+    "contextTranslation": "несовершенный, но все еще высший класс",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_795",
+    "item": "flawless",
+    "translation": "безупречный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_796",
+    "item": "laid-back",
+    "translation": "вальяжный / непринужденный",
+    "context": "laid-back atmosphere",
+    "contextTranslation": "непринужденная атмосфера",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_797",
+    "item": "indifferent",
+    "translation": "безразличный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_798",
+    "item": "contemporary",
+    "translation": "современный",
+    "context": "contemporary art",
+    "contextTranslation": "современное искусство",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_799",
+    "item": "servant",
+    "translation": "слуга",
+    "context": "faithful servant",
+    "contextTranslation": "верный слуга",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_800",
+    "item": "raw data",
+    "translation": "необработанные данные",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_801",
+    "item": "confined = limited",
+    "translation": "ограниченный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_802",
+    "item": "itinerary",
+    "translation": "маршрут (more about detailed plans)",
+    "context": "itinerary included an official visit to Canada",
+    "contextTranslation": "маршрут включал официальный визит в Канаду",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_803",
+    "item": "immersion",
+    "translation": "погружение",
+    "context": "immersion in Jewish culture",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_804",
+    "item": "encounter",
+    "translation": "сталкиваться",
+    "context": "encounter a problem / encounter a friend",
+    "contextTranslation": "столкнуться с проблемой / столкнуться с (встретить) другом",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_805",
+    "item": "sharpen skills",
+    "translation": "оттачивать навыки",
+    "context": "He has sharpened his skills",
+    "contextTranslation": "Он отточил свои навыки",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_806",
+    "item": "acute hearing",
+    "translation": "острый слух",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_807",
+    "item": "old folks home/ retirement home",
+    "translation": "дом престарелых",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_808",
+    "item": "pitch black",
+    "translation": "кромешная тьма",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_809",
+    "item": "fasten",
+    "translation": "закрепить / скрепить",
+    "context": "fasten your seatbelt",
+    "contextTranslation": "пристегните ремень безопасности",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_810",
+    "item": "pity",
+    "translation": "жалость (к кому-либо)",
+    "context": "I felt pity for him / What a pity! = How unfortunate!",
+    "contextTranslation": "Мне было его жаль. / Какая жалость! (невезение)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_811",
+    "item": "crevice",
+    "translation": "расщелина / трещина / щель",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_812",
+    "item": "envelope [ˈenvəˌlōp]",
+    "translation": "конверт",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_813",
+    "item": "envelop [ənˈveləp]",
+    "translation": "окутывать / обволакивать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_814",
+    "item": "suffocation",
+    "translation": "удушье",
+    "context": "when someone dies by something covering their face (similar to choking)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_815",
+    "item": "assertive",
+    "translation": "напористый / самоуверенный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_816",
+    "item": "assertion",
+    "translation": "утверждение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_817",
+    "item": "perceive",
+    "translation": "воспринимать",
+    "context": "children often perceive the world differently from adults",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_818",
+    "item": "persuade",
+    "translation": "убеждать",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_819",
+    "item": "persuasive",
+    "translation": "убедительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_820",
+    "item": "subjective",
+    "translation": "субъективный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_821",
+    "item": "bias",
+    "translation": "предвзятость / необъективность / склонность",
+    "context": "the referee showed bias against the athlete / she has a bias toward action over endless discussion",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_822",
+    "item": "encompass",
+    "translation": "охватывать",
+    "context": "the project will encompass a wide range of activities",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_823",
+    "item": "diverted plane (трафик)",
+    "translation": "перенаправленный самолет (трафик)",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_824",
+    "item": "contradict",
+    "translation": "противоречить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_825",
+    "item": "dispute",
+    "translation": "спор / разногласия",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_826",
+    "item": "contention",
+    "translation": "разногласие",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_827",
+    "item": "stance",
+    "translation": "позиция",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_828",
+    "item": "captivating",
+    "translation": "увлекательный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_829",
+    "item": "milking",
+    "translation": "доение",
+    "context": "milking the money -> get as much money as possible",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_830",
+    "item": "tension",
+    "translation": "напряжение",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_831",
+    "item": "hostile",
+    "translation": "враждебный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_832",
+    "item": "reconcile",
+    "translation": "примирить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_833",
+    "item": "outrageous",
+    "translation": "возмутительный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_834",
+    "item": "minimum wage",
+    "translation": "минимальная заработная плата",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_835",
+    "item": "back down",
+    "translation": "отступить",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_836",
+    "item": "whine",
+    "translation": "нытье",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_837",
+    "item": "uneasy",
+    "translation": "беспокойный",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_838",
+    "item": "grudge against",
+    "translation": "обида на",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_839",
+    "item": "envious",
+    "translation": "завистливый",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_840",
+    "item": "shattered",
+    "translation": "разбитый",
+    "context": "feel shattered after hard day / shattered glass",
+    "isLearned": false,
+    "language": "english"
+  },
+  {
+    "id": "english_841",
+    "item": "apprehensive",
+    "translation": "опасающийся / боязливый",
+    "isLearned": false,
+    "language": "english"
+  }
+]

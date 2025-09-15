@@ -1,20 +1,31 @@
 {
-  "name": "AwesomeProject",
+  "name": "flash-cards",
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "prestart": "node scripts/convert-csv-to-json.js",
+    "prebuild": "node scripts/convert-csv-to-json.js",
+    "convert-csv": "node scripts/convert-csv-to-json.js",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
+    "build:android:debug": "cd android && ./gradlew assembleDebug",
+    "build:android:release": "cd android && ./gradlew assembleRelease",
+    "build:apk": "npm run build:android:debug",
+    "build:apk:release": "npm run build:android:release",
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native/new-app-screen": "0.81.0",
+    "@types/papaparse": "^5.3.16",
+    "expo-asset": "^12.0.8",
+    "expo-file-system": "^19.0.14",
+    "papaparse": "^5.5.3",
     "react": "19.1.0",
     "react-native": "0.81.0",
-    "@react-native/new-app-screen": "0.81.0",
-    "react-native-safe-area-context": "^5.5.2",
-    "@react-native-async-storage/async-storage": "^1.21.0"
+    "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

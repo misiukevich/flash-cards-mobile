@@ -1,0 +1,2590 @@
+[
+  {
+    "id": "polish_1",
+    "item": "zapewnić",
+    "translation": "обеспечить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_2",
+    "item": "urządzenia",
+    "translation": "устройства",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_3",
+    "item": "sprzęt",
+    "translation": "оборудование",
+    "context": "может быть и про спортивное обородувание и про технику и тд",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_4",
+    "item": "sokowirówka",
+    "translation": "соковыжималка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_5",
+    "item": "blender",
+    "translation": "блендер",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_6",
+    "item": "robot kuchenny",
+    "translation": "кухонный комбайн",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_7",
+    "item": "deska do prasowania",
+    "translation": "гладильная доска",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_8",
+    "item": "gust",
+    "translation": "вкус",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_9",
+    "item": "właśnie",
+    "translation": "только что / точно / верно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_10",
+    "item": "czyli",
+    "translation": "то есть",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_11",
+    "item": "jak",
+    "translation": "как",
+    "context": "Jak bedziesz w Krakowie, zadzwoń do nas.",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_12",
+    "item": "jakby",
+    "translation": "как",
+    "context": "Jakbyś była w Krakowie, zadzwoń do nas.",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_13",
+    "item": "jeśli",
+    "translation": "если",
+    "context": "Jeśli (jeżeli) masz ochote, możemy iść na kawę.",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_14",
+    "item": "jeśliby",
+    "translation": "если",
+    "context": "Jeślibyscie przyjechali do Krakowa, pokazalibyśmy wam Kazimierz.",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_15",
+    "item": "chociaż, choć",
+    "translation": "хотя",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_16",
+    "item": "natomiast",
+    "translation": "тогда как",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_17",
+    "item": "lecz, ale",
+    "translation": "но",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_18",
+    "item": "więc",
+    "translation": "поэтому",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_19",
+    "item": "ponieważ",
+    "translation": "поскольку / потому что",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_20",
+    "item": "bowiem",
+    "translation": "так как",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_21",
+    "item": "mimo",
+    "translation": "несмотря на",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_22",
+    "item": "tędy",
+    "translation": "сюда",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_23",
+    "item": "tamtędy",
+    "translation": "туда",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_24",
+    "item": "zostawać",
+    "translation": "остаться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_25",
+    "item": "garnitur",
+    "translation": "костюм",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_26",
+    "item": "krawat",
+    "translation": "галстук",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_27",
+    "item": "rękawiczki",
+    "translation": "перчатки",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_28",
+    "item": "czapka",
+    "translation": "шапка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_29",
+    "item": "kurtka",
+    "translation": "куртка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_30",
+    "item": "spodnie",
+    "translation": "брюки",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_31",
+    "item": "skórzany",
+    "translation": "кожаный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_32",
+    "item": "w kropki",
+    "translation": "в горошек",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_33",
+    "item": "wełna",
+    "translation": "шерсть",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_34",
+    "item": "gruba",
+    "translation": "грубая",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_35",
+    "item": "cienki",
+    "translation": "тонкий",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_36",
+    "item": "nie stać mnie na",
+    "translation": "я не могу себе позволить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_37",
+    "item": "kasa",
+    "translation": "каса / деньги",
+    "context": "nie mam kasy",
+    "contextTranslation": "не могу заплатить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_38",
+    "item": "trwonić",
+    "translation": "растрачивать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_39",
+    "item": "wydawać",
+    "translation": "тратить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_40",
+    "item": "ogólnie",
+    "translation": "вообще",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_41",
+    "item": "opinia / zdanie",
+    "translation": "мнение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_42",
+    "item": "okoliczności",
+    "translation": "обстоятельства",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_43",
+    "item": "szacunek",
+    "translation": "уважение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_44",
+    "item": "wreszcie",
+    "translation": "наконец",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_45",
+    "item": "najwyższy i najgrubszy",
+    "translation": "самый высокий и самый толстый",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_46",
+    "item": "chrupiący",
+    "translation": "хрустящий",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_47",
+    "item": "sprzątać",
+    "translation": "убирать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_48",
+    "item": "podnieść słuchawkę",
+    "translation": "поднять трубку",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_49",
+    "item": "załatwić",
+    "translation": "уладить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_50",
+    "item": "należeć do",
+    "translation": "принадлежать к",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_51",
+    "item": "bliźniak",
+    "translation": "близнец",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_52",
+    "item": "urodziłem się",
+    "translation": "я родился",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_53",
+    "item": "zwiedzać",
+    "translation": "посещать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_54",
+    "item": "wychodzić za mąż",
+    "translation": "выйти замуж",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_55",
+    "item": "sufit",
+    "translation": "потолок",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_56",
+    "item": "spiżarnia",
+    "translation": "кладовая",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_57",
+    "item": "pokój dziecięcy",
+    "translation": "детская комната",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_58",
+    "item": "korytarz",
+    "translation": "коридор",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_59",
+    "item": "łazienka",
+    "translation": "ванная комната",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_60",
+    "item": "twój wymarzony dom",
+    "translation": "дом вашей мечты",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_61",
+    "item": "parter",
+    "translation": "первый этаж",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_62",
+    "item": "piętro",
+    "translation": "этаж",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_63",
+    "item": "przeprowadzka",
+    "translation": "переезд",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_64",
+    "item": "gabinet",
+    "translation": "кабинет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_65",
+    "item": "toaleta",
+    "translation": "туалет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_66",
+    "item": "jadalnia",
+    "translation": "столовая",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_67",
+    "item": "taras",
+    "translation": "терраса",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_68",
+    "item": "przedpokój",
+    "translation": "прихожая",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_69",
+    "item": "wybitna",
+    "translation": "выдающаяся",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_70",
+    "item": "niezdecydowany",
+    "translation": "нерешительный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_71",
+    "item": "dziennikarz",
+    "translation": "журналист",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_72",
+    "item": "pić mi się chce",
+    "translation": "хочется пить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_73",
+    "item": "samodzielny",
+    "translation": "самостоятельный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_74",
+    "item": "roztrzepany",
+    "translation": "рассеянный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_75",
+    "item": "smutny",
+    "translation": "грустный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_76",
+    "item": "mam to w dupie",
+    "translation": "мне плевать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_77",
+    "item": "gościu",
+    "translation": "незнакомец",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_78",
+    "item": "ziomek",
+    "translation": "земляк",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_79",
+    "item": "chodnik",
+    "translation": "тротуар",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_80",
+    "item": "regał",
+    "translation": "стеллаж",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_81",
+    "item": "na plaży",
+    "translation": "на пляже",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_82",
+    "item": "łyżwy",
+    "translation": "коньки",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_83",
+    "item": "narty",
+    "translation": "лыжи",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_84",
+    "item": "w doniczce",
+    "translation": "в горшке",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_85",
+    "item": "wady i zalety",
+    "translation": "минусы и плюсы",
+    "context": "zalety - преимущества; wady - недостатки",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_86",
+    "item": "łatwy",
+    "translation": "легкий",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_87",
+    "item": "uważam",
+    "translation": "я считаю / я думаю",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_88",
+    "item": "wynagrodzenie",
+    "translation": "зарплата",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_89",
+    "item": "połączyć",
+    "translation": "объединить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_90",
+    "item": "irytuje",
+    "translation": "раздражает",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_91",
+    "item": "rządzić",
+    "translation": "управлять",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_92",
+    "item": "wstręt",
+    "translation": "отвращение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_93",
+    "item": "wymyślić",
+    "translation": "придумать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_94",
+    "item": "radość",
+    "translation": "радость",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_95",
+    "item": "wstyd",
+    "translation": "стыд",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_96",
+    "item": "smutek",
+    "translation": "печаль",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_97",
+    "item": "woda spada/biegnie",
+    "translation": "вода падает / бежит",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_98",
+    "item": "skomplikowane",
+    "translation": "сложно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_99",
+    "item": "bez PIENIĘDZY",
+    "translation": "без денег",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_100",
+    "item": "rondo drogowe",
+    "translation": "кольцевая дорога",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_101",
+    "item": "statek",
+    "translation": "корабль",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_102",
+    "item": "dyszka",
+    "translation": "10zl",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_103",
+    "item": "dodają wszędzie",
+    "translation": "они добавляют везде",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_104",
+    "item": "Niezłe",
+    "translation": "Неплохо",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_105",
+    "item": "Świetne",
+    "translation": "Отлично",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_106",
+    "item": "garnek",
+    "translation": "кастрюля",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_107",
+    "item": "wieprzowina",
+    "translation": "свинина",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_108",
+    "item": "brzuch",
+    "translation": "живот",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_109",
+    "item": "brytyjscy naukowcy",
+    "translation": "британские ученые",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_110",
+    "item": "udowodnić",
+    "translation": "доказать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_111",
+    "item": "trzymać dietę",
+    "translation": "придерживаться диеты",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_112",
+    "item": "ogień",
+    "translation": "огонь",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_113",
+    "item": "zanim",
+    "translation": "прежде чем",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_114",
+    "item": "kocię",
+    "translation": "котенок",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_115",
+    "item": "gniazdo z małymi pisklętami",
+    "translation": "гнездо с маленькими птенцами",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_116",
+    "item": "schronisko",
+    "translation": "приют",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_117",
+    "item": "kruk",
+    "translation": "ворон",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_118",
+    "item": "futro",
+    "translation": "мех",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_119",
+    "item": "wolno",
+    "translation": "медленно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_120",
+    "item": "W godzinach szczytu",
+    "translation": "В часы пик",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_121",
+    "item": "hodować",
+    "translation": "выращивать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_122",
+    "item": "odpowiedzialność",
+    "translation": "ответственность",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_123",
+    "item": "spoczywa duża odpowiedzialność",
+    "translation": "большая ответственность лежит",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_124",
+    "item": "niewolnictwo",
+    "translation": "рабство",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_125",
+    "item": "uchwyt",
+    "translation": "держатель",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_126",
+    "item": "ufać",
+    "translation": "доверять",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_127",
+    "item": "martwić się",
+    "translation": "беспокоиться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_128",
+    "item": "W rzeczywistości",
+    "translation": "На самом деле",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_129",
+    "item": "w nowej rzeczywistości",
+    "translation": "в новой реальности",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_130",
+    "item": "Uprzedzenie",
+    "translation": "Предубеждение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_131",
+    "item": "wsparcie",
+    "translation": "поддержка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_132",
+    "item": "zaradzić",
+    "translation": "справиться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_133",
+    "item": "spore środki",
+    "translation": "значительные средства",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_134",
+    "item": "obecnie",
+    "translation": "в настоящее время",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_135",
+    "item": "wrzątek",
+    "translation": "кипяток",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_136",
+    "item": "założyć",
+    "translation": "основать / одеть",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_137",
+    "item": "zejść",
+    "translation": "спуститься",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_138",
+    "item": "zabór",
+    "translation": "аннексия",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_139",
+    "item": "gadatliwy",
+    "translation": "болтливый",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_140",
+    "item": "brzmieć",
+    "translation": "звучать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_141",
+    "item": "przezroczysty",
+    "translation": "прозрачный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_142",
+    "item": "w kratkę",
+    "translation": "клетчатый",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_143",
+    "item": "wąski",
+    "translation": "узкий",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_144",
+    "item": "wydawać pieniądze",
+    "translation": "тратить деньги",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_145",
+    "item": "Brać/wziąć",
+    "translation": "Взять",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_146",
+    "item": "Obejrzę",
+    "translation": "Я посмотрю",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_147",
+    "item": "patrzyć",
+    "translation": "смотреть",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_148",
+    "item": "reperować i montować auta",
+    "translation": "ремонт и монтаж автомобилей",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_149",
+    "item": "Rodzaj sportu",
+    "translation": "Вид спорта",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_150",
+    "item": "Schudnąć",
+    "translation": "Похудеть",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_151",
+    "item": "Przytyć",
+    "translation": "Поправиться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_152",
+    "item": "Zaskoczyć kogoś",
+    "translation": "Удивить кого-то",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_153",
+    "item": "kiliszek",
+    "translation": "бокал",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_154",
+    "item": "pod względem",
+    "translation": "с этой точки зрения",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_155",
+    "item": "wewnętrzny",
+    "translation": "внутренний",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_156",
+    "item": "bieganie",
+    "translation": "бег",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_157",
+    "item": "siatkówka",
+    "translation": "волейбол",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_158",
+    "item": "rodzić dziecko",
+    "translation": "родить ребенка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_159",
+    "item": "nagle",
+    "translation": "вдруг",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_160",
+    "item": "robiłem",
+    "translation": "я делал",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_161",
+    "item": "mogłem",
+    "translation": "я мог",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_162",
+    "item": "odblokowywać",
+    "translation": "разблокировать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_163",
+    "item": "zdecydowałem",
+    "translation": "я решил",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_164",
+    "item": "korzyść",
+    "translation": "польза / выгода",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_165",
+    "item": "zaoszczędzić",
+    "translation": "сэкономить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_166",
+    "item": "Skąd wiesz",
+    "translation": "Откуда ты знаешь",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_167",
+    "item": "Jedziesz dokądś",
+    "translation": "Ты едешь куда-то",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_168",
+    "item": "Na dworcu",
+    "translation": "На вокзале",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_169",
+    "item": "wypoczywać",
+    "translation": "отдыхать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_170",
+    "item": "nocować",
+    "translation": "ночевать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_171",
+    "item": "pasować",
+    "translation": "подходить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_172",
+    "item": "miejscówka",
+    "translation": "плацкарт",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_173",
+    "item": "stolica",
+    "translation": "столица",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_174",
+    "item": "kamienica",
+    "translation": "каменный дом",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_175",
+    "item": "mur",
+    "translation": "стена",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_176",
+    "item": "szczyt",
+    "translation": "пик",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_177",
+    "item": "jezioro",
+    "translation": "озеро",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_178",
+    "item": "cegła",
+    "translation": "кирпич",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_179",
+    "item": "ziomeczka",
+    "translation": "дружище",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_180",
+    "item": "kumpel",
+    "translation": "приятель",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_181",
+    "item": "farbować",
+    "translation": "окрашивать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_182",
+    "item": "świętować",
+    "translation": "праздновать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_183",
+    "item": "dostanę",
+    "translation": "я получу",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_184",
+    "item": "dostać",
+    "translation": "получить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_185",
+    "item": "zapisać się",
+    "translation": "записаться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_186",
+    "item": "pójść",
+    "translation": "пойти",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_187",
+    "item": "zdecydować się na coś",
+    "translation": "решиться на что-то",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_188",
+    "item": "wybrać",
+    "translation": "выбрать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_189",
+    "item": "przytulny",
+    "translation": "уютный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_190",
+    "item": "dziś",
+    "translation": "сегодня",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_191",
+    "item": "od dziś",
+    "translation": "с сегодняшнего дня",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_192",
+    "item": "szczęście",
+    "translation": "счастье",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_193",
+    "item": "sztuka",
+    "translation": "искусство",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_194",
+    "item": "wycieczka",
+    "translation": "экскурсия",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_195",
+    "item": "z mojego zdania",
+    "translation": "по моему мнению",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_196",
+    "item": "w rogu",
+    "translation": "в углу",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_197",
+    "item": "Nie zastanawiłam się",
+    "translation": "Я не задумывалась",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_198",
+    "item": "przytulać",
+    "translation": "обнимать / прислонить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_199",
+    "item": "zejść",
+    "translation": "спуститься / выйти",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_200",
+    "item": "ubrania",
+    "translation": "одежда",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_201",
+    "item": "kiepski",
+    "translation": "плохой",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_202",
+    "item": "zajebisty",
+    "translation": "обалденный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_203",
+    "item": "cechy",
+    "translation": "характеристики",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_204",
+    "item": "park rozrywki",
+    "translation": "парк с аттракционами",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_205",
+    "item": "kondolencje",
+    "translation": "соболезнования",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_206",
+    "item": "zachęta",
+    "translation": "стимул",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_207",
+    "item": "praktycznie",
+    "translation": "практически",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_208",
+    "item": "prawie",
+    "translation": "почти",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_209",
+    "item": "według mnie",
+    "translation": "по моему мнению",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_210",
+    "item": "osiągnięcia",
+    "translation": "достижения",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_211",
+    "item": "nieuczciwy",
+    "translation": "несправедливый",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_212",
+    "item": "kierunek",
+    "translation": "направление",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_213",
+    "item": "nie radzą sobie",
+    "translation": "они не могут справиться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_214",
+    "item": "dolegliwości",
+    "translation": "недуги",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_215",
+    "item": "jak najbardziej",
+    "translation": "конечно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_216",
+    "item": "martwić się",
+    "translation": "волноваться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_217",
+    "item": "to jest tego warte",
+    "translation": "это стоит того",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_218",
+    "item": "wcześniej robiłem to ...",
+    "translation": "я делал это раньше...",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_219",
+    "item": "w pełni",
+    "translation": "полностью",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_220",
+    "item": "fascynujące",
+    "translation": "очаровательно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_221",
+    "item": "narzekać",
+    "translation": "жаловаться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_222",
+    "item": "my do siebe chodzimy",
+    "translation": "мы ходим друг к другу",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_223",
+    "item": "w wieku dojrzałym",
+    "translation": "в зрелом возрасте",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_224",
+    "item": "sprawozdanie",
+    "translation": "отчет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_225",
+    "item": "streszczenie",
+    "translation": "краткое содержание",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_226",
+    "item": "artykuł o nowej restauracji",
+    "translation": "o а не pro",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_227",
+    "item": "pech",
+    "translation": "невезение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_228",
+    "item": "według",
+    "translation": "в соответствии с",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_229",
+    "item": "obchodzić",
+    "translation": "праздновать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_230",
+    "item": "niespodzianka",
+    "translation": "сюрприз",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_231",
+    "item": "występ na scenie",
+    "translation": "выступление на сцене",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_232",
+    "item": "piwnica",
+    "translation": "подвал",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_233",
+    "item": "trwać",
+    "translation": "длиться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_234",
+    "item": "zaadoptować",
+    "translation": "усыновить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_235",
+    "item": "zespół",
+    "translation": "команда",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_236",
+    "item": "przestrzeń",
+    "translation": "космос",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_237",
+    "item": "zależy mi na",
+    "translation": "мне не все равно на",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_238",
+    "item": "angażować",
+    "translation": "привлекать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_239",
+    "item": "wolę kawę",
+    "translation": "Я предпочитаю кофе",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_240",
+    "item": "wydawać pieniądze",
+    "translation": "тратить деньги",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_241",
+    "item": "wspaniale",
+    "translation": "отлично",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_242",
+    "item": "wcześnie",
+    "translation": "рано / в начале дня (в начале чего-то)",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_243",
+    "item": "wyjątkowo",
+    "translation": "исключительно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_244",
+    "item": "zwłaszcza",
+    "translation": "особенно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_245",
+    "item": "potrafić",
+    "translation": "быть способным",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_246",
+    "item": "czynić",
+    "translation": "делать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_247",
+    "item": "fabula",
+    "translation": "сюжет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_248",
+    "item": "zestaw",
+    "translation": "набор",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_249",
+    "item": "zbyt",
+    "translation": "слишком",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_250",
+    "item": "niezbyt",
+    "translation": "не очень",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_251",
+    "item": "osiągnąć",
+    "translation": "достигать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_252",
+    "item": "zdanie",
+    "translation": "предложение (языковая конструкция) / мнение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_253",
+    "item": "szczerze",
+    "translation": "честно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_254",
+    "item": "rozpraszać",
+    "translation": "отвлекать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_255",
+    "item": "warga",
+    "translation": "губа",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_256",
+    "item": "zanim pójdzie",
+    "translation": "прежде чем он уйдет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_257",
+    "item": "nieraz",
+    "translation": "иногда",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_258",
+    "item": "konfliktowy człowiek/konfliktowi ludzie",
+    "translation": "конфликтный человек/люди",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_259",
+    "item": "unikać",
+    "translation": "избегать",
+    "context": "Czy zawsze jesteśmy w stanie uniknąć konfliktu?",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_260",
+    "item": "mieć szacunek do siebie nawzajem",
+    "translation": "иметь уважение друг к другу",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_261",
+    "item": "milczeć",
+    "translation": "молчать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_262",
+    "item": "wątpliwość",
+    "translation": "сомнение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_263",
+    "item": "wątpienie",
+    "translation": "сомнения",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_264",
+    "item": "kopiuj/wklej",
+    "translation": "копировать вставить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_265",
+    "item": "tłumacz/translator",
+    "translation": "переводчик",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_266",
+    "item": "oczywiście",
+    "translation": "конечно",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_267",
+    "item": "słodko-kwaśny",
+    "translation": "кисло-сладкий",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_268",
+    "item": "surowy",
+    "translation": "сырой",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_269",
+    "item": "akademik",
+    "translation": "общежитие",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_270",
+    "item": "Medycyna ratunkowa",
+    "translation": "Неотложная медицинская помощь",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_271",
+    "item": "ambulans",
+    "translation": "машина скорой помощи",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_272",
+    "item": "dzwonić na pogotowie",
+    "translation": "звонить в скорую",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_273",
+    "item": "narządy / organy",
+    "translation": "органы",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_274",
+    "item": "pionowy",
+    "translation": "вертикальный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_275",
+    "item": "wygodny",
+    "translation": "комфортный / удобный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_276",
+    "item": "zysk",
+    "translation": "выгодный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_277",
+    "item": "Przesądy",
+    "translation": "Суеверия",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_278",
+    "item": "zaskoczony",
+    "translation": "удивлен",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_279",
+    "item": "pechowy",
+    "translation": "несчастливый",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_280",
+    "item": "przeciętny",
+    "translation": "средний / обычный",
+    "context": "przeciętny dzień w wieku 30 lat",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_281",
+    "item": "głupi",
+    "translation": "глупый",
+    "context": "Mój kot jest głupi",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_282",
+    "item": "tchórz",
+    "translation": "трус",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_283",
+    "item": "kask",
+    "translation": "шлем",
+    "context": "kask rowerowy",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_284",
+    "item": "pilot",
+    "translation": "пилот / пульт",
+    "context": "pilot samolotu / pilot do telewizora",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_285",
+    "item": "schody",
+    "translation": "лестница (со ступеньками)",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_286",
+    "item": "drabina",
+    "translation": "лестница (типо стремянки)",
+    "context": "wspina się po drabinie",
+    "contextTranslation": "поднимается по лестнице",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_287",
+    "item": "bałagan",
+    "translation": "беспорядок",
+    "context": "bałagan = przeciwieństwo porządku",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_288",
+    "item": "rodzynek w cieście",
+    "translation": "mężczyznę, który znajduje się w towarzystwie złożonym z samych kobiet",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_289",
+    "item": "odwaga",
+    "translation": "храбрость",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_290",
+    "item": "wahać się",
+    "translation": "сомневаться",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_291",
+    "item": "przecinek",
+    "translation": "запятая",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_292",
+    "item": "przeprowadza sondaże",
+    "translation": "проводит опросы",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_293",
+    "item": "uczestniczyć",
+    "translation": "участвовать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_294",
+    "item": "włóczykij (pozytywnie)",
+    "translation": "бродяга",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_295",
+    "item": "włóczęga (negatywnie)",
+    "translation": "бродяга",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_296",
+    "item": "powsinoga",
+    "translation": "бездельник",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_297",
+    "item": "film ma 100 wyświetleń",
+    "translation": "у видео 100 просмотров",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_298",
+    "item": "wyświetlają film w kinie",
+    "translation": "показывают фильм в кинотеатре",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_299",
+    "item": "nie dotarły",
+    "translation": "не пришли",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_300",
+    "item": "rozrywka",
+    "translation": "развлечение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_301",
+    "item": "przyciągać",
+    "translation": "привлекать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_302",
+    "item": "chytry",
+    "translation": "хитрый",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_303",
+    "item": "zmarszczki",
+    "translation": "морщины",
+    "context": "on jest pomarszczony",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_304",
+    "item": "udany",
+    "translation": "успешный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_305",
+    "item": "opozycjonista",
+    "translation": "оппозиционер",
+    "context": "opozycyjne poglądy",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_306",
+    "item": "rząd",
+    "translation": "правительство",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_307",
+    "item": "więzienie",
+    "translation": "тюрьма",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_308",
+    "item": "popierać",
+    "translation": "поддерживать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_309",
+    "item": "uschnie / igły odpadną",
+    "translation": "завянет / опадут иголки",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_310",
+    "item": "smętny",
+    "translation": "печальный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_311",
+    "item": "pomyślność",
+    "translation": "процветание",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_312",
+    "item": "chrzciny",
+    "translation": "крещение",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_313",
+    "item": "słony śledź",
+    "translation": "соленая селедка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_314",
+    "item": "zupa w kartonie",
+    "translation": "суп в пачке",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_315",
+    "item": "budzi nieprzyjemne skojarzenia",
+    "translation": "вызывает неприятные ассоциации",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_316",
+    "item": "ośći",
+    "translation": "рыбьи кости",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_317",
+    "item": "kość",
+    "translation": "кость",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_318",
+    "item": "zasugerować",
+    "translation": "предлагать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_319",
+    "item": "temperatura ujemna",
+    "translation": "отрицательная температура",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_320",
+    "item": "nie ma chmur",
+    "translation": "нет облаков",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_321",
+    "item": "mdłości",
+    "translation": "тошнота",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_322",
+    "item": "gatunek",
+    "translation": "разновидность",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_323",
+    "item": "szkoła podstawowa = podstawówka",
+    "translation": "до 8го класса (среднее образование)",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_324",
+    "item": "pełen etat - 8 godzin dziennie",
+    "translation": "полный рабочий день - 8 часов в день",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_325",
+    "item": "pazerność",
+    "translation": "жадность",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_326",
+    "item": "wydajny",
+    "translation": "эффективный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_327",
+    "item": "wykopali duży dół",
+    "translation": "они вырыли большую яму",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_328",
+    "item": "odporność",
+    "translation": "сопротивление / иммунитет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_329",
+    "item": "bambusowy kij",
+    "translation": "бамбуковая палка",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_330",
+    "item": "zasiłek",
+    "translation": "пособие",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_331",
+    "item": "zasoby",
+    "translation": "ресурсы",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_332",
+    "item": "syn marnotrawny",
+    "translation": "блудный сын",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_333",
+    "item": "kolce",
+    "translation": "шипы",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_334",
+    "item": "ogon",
+    "translation": "хвост",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_335",
+    "item": "obroża",
+    "translation": "ошейник (у собак)",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_336",
+    "item": "skrzydełka",
+    "translation": "крылья",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_337",
+    "item": "frajer",
+    "translation": "naiwna osoba",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_338",
+    "item": "strych",
+    "translation": "чердак",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_339",
+    "item": "prowizorka",
+    "translation": "временная мера",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_340",
+    "item": "sęp",
+    "translation": "стервятник",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_341",
+    "item": "sępić",
+    "translation": "wyłudzać, żebrać coś od kogoś, szczególnie pieniądze, lub skąpić czegoś komuś",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_342",
+    "item": "kwestia zasad",
+    "translation": "дело принципа",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_343",
+    "item": "rekin",
+    "translation": "акула",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_344",
+    "item": "na dwór",
+    "translation": "(выходить) во двор",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_345",
+    "item": "udogodnienia",
+    "translation": "удобства",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_346",
+    "item": "przychodnia publiczna",
+    "translation": "государственная клиника",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_347",
+    "item": "wiercić",
+    "translation": "сверлить",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_348",
+    "item": "praca w fabryce",
+    "translation": "работать на заводе",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_349",
+    "item": "przepuszczać pieniądze",
+    "translation": "тратить деньги",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_350",
+    "item": "wąchać",
+    "translation": "нюхать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_351",
+    "item": "zapach",
+    "translation": "запах",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_352",
+    "item": "pamiątki",
+    "translation": "сувениры",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_353",
+    "item": "uraz",
+    "translation": "травма",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_354",
+    "item": "wyginąć -> grozi wyginięcie",
+    "translation": "вымереть -> под угрозой исчезновения",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_355",
+    "item": "dziewicza przyroda = przyroda niezmieniona przez człowieka",
+    "translation": "девственная природа = природа, не тронутая человеком",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_356",
+    "item": "zahartowany",
+    "translation": "закаленный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_357",
+    "item": "wszyscy byli zdziwieni",
+    "translation": "все были удивлены",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_358",
+    "item": "ściągnąć / pobrać",
+    "translation": "скачать",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_359",
+    "item": "ciekawy",
+    "translation": "интересный",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_360",
+    "item": "szewc",
+    "translation": "сапожник",
+    "context": "szewc bez butów chodzi",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_361",
+    "item": "nie śmierdzi",
+    "translation": "не воняет",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_362",
+    "item": "szybciej",
+    "translation": "быстрее",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_363",
+    "item": "dużo więcej czasu",
+    "translation": "гораздо больше времени",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_364",
+    "item": "paznokcie",
+    "translation": "ногти",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_365",
+    "item": "pazury",
+    "translation": "когти",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_366",
+    "item": "pszczoła",
+    "translation": "пчела",
+    "isLearned": false,
+    "language": "polish"
+  },
+  {
+    "id": "polish_367",
+    "item": "dopiero się obudziłam",
+    "translation": "я только что проснулся",
+    "isLearned": false,
+    "language": "polish"
+  }
+]
