@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import {
-  View,
   Text,
   StyleSheet,
   ActivityIndicator,
@@ -30,11 +29,7 @@ function App() {
   const [cards, setCards] = useState<LanguageData>({ english: [], polish: [] });
   const [currentLanguage, setCurrentLanguage] = useState<'english' | 'polish'>('english');
 
-  useEffect(() => {
-    initializeApp();
-  }, []);
-
-  const initializeApp = async () => {
+  const initializeApp = useCallback(async () => {
     try {
       setIsLoading(true);
       console.log('🚀 App: Initializing application...');
@@ -61,7 +56,11 @@ function App() {
       setIsLoading(false);
       console.log('✅ App: Initialization completed');
     }
-  };
+  }, []);
+
+  useEffect(() => {
+    initializeApp();
+  }, [initializeApp]);
 
   const loadDataFromFiles = async () => {
     try {
@@ -121,7 +120,7 @@ function App() {
     await saveCards(newCards);
   };
 
-  const handleCardPress = (index: number) => {
+  const handleCardPress = (_index: number) => {
     // Navigate to learning screen at specific card
     setCurrentScreen('learning');
     // Note: In a more complex app, you'd pass the index to the learning screen

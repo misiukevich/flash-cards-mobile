@@ -6,7 +6,6 @@ import {
   TouchableOpacity,
   StyleSheet,
   TextInput,
-  Alert,
 } from 'react-native';
 import { FlashCard } from '../types';
 
@@ -52,7 +51,7 @@ export const WordList: React.FC<WordListProps> = ({
     return filtered;
   }, [cards, searchQuery, filterLearned]);
 
-  const renderCard = ({ item, index }: { item: FlashCard; index: number }) => {
+  const renderCard = ({ item, index: _index }: { item: FlashCard; index: number }) => {
     const originalIndex = cards.findIndex(card => card.id === item.id);
     
     return (

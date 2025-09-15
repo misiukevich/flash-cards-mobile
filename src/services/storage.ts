@@ -1,5 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { LanguageData, FlashCard } from '../types';
+import { LanguageData } from '../types';
 
 const STORAGE_KEYS = {
   CARDS: 'flash_cards_data',

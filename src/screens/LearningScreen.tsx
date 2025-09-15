@@ -71,18 +71,20 @@ export const LearningScreen: React.FC<LearningScreenProps> = ({
     }
   };
 
-  const handleCardPress = (index: number) => {
-    setCurrentIndex(index);
-  };
+  // const handleCardPress = (_index: number) => {
+  //   // setCurrentIndex(index);
+  // };
 
-  if (currentCards.length === 0) {
-    // Use useEffect to show alert and navigate back
-    React.useEffect(() => {
+  // Use useEffect to show alert and navigate back when no cards
+  React.useEffect(() => {
+    if (currentCards.length === 0) {
       Alert.alert('No Cards', 'No cards available for learning.', [
         { text: 'OK', onPress: onBack }
       ]);
-    }, []);
-    
+    }
+  }, [currentCards.length, onBack]);
+
+  if (currentCards.length === 0) {
     return (
       <View style={styles.emptyContainer}>
         <Text>No cards available</Text>

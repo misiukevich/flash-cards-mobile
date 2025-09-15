@@ -4,7 +4,6 @@ import {
   Text,
   TouchableOpacity,
   StyleSheet,
-  Dimensions,
 } from 'react-native';
 import { FlashCard } from '../types';
 
@@ -17,7 +16,7 @@ interface CardNavigatorProps {
   onToggleLearned: (cardId: string, isLearned: boolean) => void;
 }
 
-const { width } = Dimensions.get('window');
+// const { width } = Dimensions.get('window');
 
 export const CardNavigator: React.FC<CardNavigatorProps> = ({
   currentCard,
@@ -25,7 +24,7 @@ export const CardNavigator: React.FC<CardNavigatorProps> = ({
   totalCards,
   onPrevious,
   onNext,
-  onToggleLearned,
+  onToggleLearned: _onToggleLearned,
 }) => {
   const progress = ((currentIndex + 1) / totalCards) * 100;
   const learnedCount = totalCards > 0 ? 
